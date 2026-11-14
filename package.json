@@ -1,0 +1,17 @@
+{
+  "name": "citation-checker",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Checks whether the sources an AI answer cites actually support its claims.",
+  "scripts": {
+    "check": "tsx check.ts run",
+    "summary": "tsx check.ts summary",
+    "sample": "tsx check.ts sample 60",
+    "score": "tsx check.ts score"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "tsx": "^4.19.0"
+  }
+}

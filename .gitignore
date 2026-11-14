@@ -1,0 +1,4 @@
+.env
+node_modules/
+# Local snapshots of fetched pages. Their hashes are published in results/.
+cache/
