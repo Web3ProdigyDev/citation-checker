@@ -509,7 +509,9 @@ async function run() {
   if (flag("limit")) answers = answers.slice(0, Number(flag("limit")));
   if (!answers.length) return console.log("No answers found. Save them as answers/<model>/<ID>.md (for example answers/chatgpt/F1-NG.md).");
   console.log(`Checking ${answers.length} answers with judge "${JUDGE}"${JUDGE === "gemini" ? ` (${GEMINI_MODEL})` : ""}`);
-  const all: Row[] = [];
+  // keep results for answers not in this run (for example another model when --only is used)
+  const done = new Set(answers.map((a) => `${a.model}|${a.qid}`));
+  const all: Row[] = loadResults().filter((r) => !done.has(`${r.model}|${r.question_id}`));
   for (const [i, a] of answers.entries()) {
     const rows = await checkAnswer(a, questions.get(a.qid)!);
     all.push(...rows);
