@@ -24,13 +24,13 @@ Built for the Apart Research AI x Epistemics Sprint (Trust Infrastructure track)
 3. **Excerpts.** For long pages, the passages that best match each claim are selected by weighted keyword overlap.
 4. **Verdict.** A judge model reads the claim and the excerpts and returns a verdict with a quote. The quote is then searched for in the page text; quotes that are not found are flagged.
 
-PDF sources are read with `pdftotext`. Pages that cannot be read (dead link, paywall, blocked, scanned PDF) are recorded as `unchecked` with the reason. They are never counted as unsupported.
+Pages that cannot be read (dead link, paywall, PDF, blocked) are recorded as `unchecked` with the reason. They are never counted as unsupported.
 
 A keyword-only baseline judge (`--judge baseline`) is included for comparison.
 
 ## Run it
 
-Needs Node 18 or newer, and `pdftotext` for PDF sources (`sudo apt install poppler-utils` on Ubuntu or WSL).
+Needs Node 18 or newer.
 
 ```bash
 npm install
