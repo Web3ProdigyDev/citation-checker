@@ -1,0 +1,983 @@
+ROW 7 | bb9cf34efa | chatgpt | H1-NG
+CLAIM: Patients should complete the prescribed malaria treatment course.
+URL: https://mesamalaria.org/wp-content/uploads/2025/04/NIGERIA-Malaria-Profile-PMI-FY-2024.pdf?utm_source=chatgpt.com
+STATUS: ok
+
+LAST UPDATED: 07/21/2023
+NIGERIA MALARIA PROFILE
+I. ABOUT
+Launched in 2005, the U.S. President’s Malaria Initiative (PMI) supports implementation of
+malaria prevention and treatment measures as well as cross-cutting interventions. PMI’s
+2021–2026 strategy, End Malaria Faster, envisions a world free of malaria within our
+generation with the goal of preventing malaria cases, reducing malaria deaths and illness, and
+eliminating malaria in PMI partner countries. PMI currently supports 27 countries in
+Sub-Saharan Africa and three programs across the Greater Mekong Subregion in Southeast
+Asia to control and eliminate malaria. Nigeria began implementation as a PMI focus country in
+FY 2011. Please see the Nigeria Malaria Operational Plan for more information on PMI’s
+approach and investments.
+II. CONTEXT
+Table 1: General Demographics and Malaria Situation
+Population
+227,000,000 (National Population Commission,
+2006)
+Population at risk of malaria
+97% (National Malaria Strategic Plan,
+2021-2025)1
+Malaria prevalence
+22% (Nigeria Malaria Indicator Survey, 2021)
+Malaria incidence/1,000 population at risk
+303.3 (World Health Organization, Global Health
+Observatory Data Repository/World Health
+Statistics, 2019)
+1
+The National Malaria Strategic Plan 2021-2025 states that 97% of the population is at risk of malaria, however, for the
+national level, 100% of the population at risk is used for quantification of malaria commodities.
+1
+STRATIFICATION
+Figure 1: Prevalence Map: Prevalence Among Children 6–59 Months of Age Testing
+Positive for Malaria by Microscopy
+Malaria indicator survey (MIS), 2021
+The percentage of children with malaria was highest in Kebbi State (49 percent, a 3 percent
+drop from the Demographic and Health Survey [DHS] 2018) and Zamfara State (37 percent)
+and lowest in Lagos State (3 percent), Anambra State (5 percent), and Kwara State and Borno
+States both had 6 percent.
+U.S. President’s Malaria Initiative Nigeria Malaria Profile 2
+Figure 2: Incidence Map (Children 6 to 59 Months of Age Testing Positive for Malaria by
+Microscopy)
+Map shows that malaria incidence ranges (adjusted for testing and reporting rates) from less
+than 5 cases per 1,000 population in some parts of Borno state to between 500 and 1000
+cases per 1,000 population in some parts of Abuja, Nasarawa, and Kaduna states.
+Table 2: Geography and Climate
+Principal Malaria Parasites
+Plasmodium falciparum
+Principal Malaria Vector*
+Anopheles gambiae s.I.
+* See Entomological Monitoring section of the Malaria Operational Plan for more details on vector bionomics and insecticide
+resistance and Indoor Residual Spraying section for details on residual efficacy.
+U.S. President’s Malaria Initiative Nigeria Malaria Profile 3
+COUNTRY HEALTH SYSTEM
+The Federal Government is responsible for tertiary health care and formulates health policies
+through the Federal Ministry of Health.
+The State governments provide largely secondary health care through the state general
+hospitals and occasionally tertiary care through the state-owned teaching hospitals. They also
+coordinate primary health care implementation at the local government area level through the
+State Primary Health Care Development Agency.
+The local government areas implement primary health care and manage the ward health
+committees, village health committees, private care providers, and traditional and alternative
+health care providers that enhance service delivery and community mobilization.
+Malaria diagnostic services are provided at all levels of care; malaria rapid diagnostic test kit
+(RDT) is used at the primary health facilities, while the secondary and tertiary health facilities
+utilize both RDT and microscopy in malaria diagnosis.
+Skilled health workers—doctors, nurses, and midwives—mostly provide care at the tertiary,
+secondary, and primary health care levels. Community-based health care services are
+provided by community health extension workers, who are expected to spend at least 60
+percent of their time within the community, and various cadres of volunteer health workers,
+who are engaged by different public health programs through inconsistent standards and
+incentives.
+The National Primary Health Care Development Agency recently launched the Community
+Health Influencers and Promoters of Services (CHIPS) initiative with the aim of facilitating
+task-sharing and improving coordination of community health services.
+The CHIPS strategy seeks to transition all current community-based workers from programs
+that are phasing out into a single national program. Both the training programs and health
+workers are integrated, so that there is one training program, one curriculum, and one category
+of community-based workers—the CHIPS personnel, made up of CHIPS agents and
+community engagement focal persons. A minimum of ten CHIPS agents, preferably women,
+are trained in each political ward. They are responsible for working at the household level to
+provide counseling, create demand, and refer household members to primary health care
+facilities for the uptake of needed services. In addition, they provide basic preventive services,
+case management of fever, cough and diarrhea in children under five years of age and first aid
+services.
+Prevention of malaria in pregnancy is implemented as a component of the ANC model of
+positive pregnancy experience. This provides the most practical platform for the delivery of
+these interventions. The key interventions that are provided at antenatal clinics for the
+U.S. President’s Malaria Initiative Nigeria Malaria Profile 4
+prevention of malaria in pregnancy include administration of sulphadoxine-pyrimethamine for
+intermittent preventive treatment (IPT) under direct supervision of skilled service providers,
+distribution of insecticide-treated mosquito nets (ITNs), and appropriate case management
+through prompt diagnosis and effective treatment with recommended medicines. The
+implementation of the ANC model of positive pregnancy experience recommends that
+pregnant women should have at least 8 contacts as follows: first contact, within the first 12
+weeks; second contact, at 20 weeks; third contact, at 26 weeks; fourth contact, at 30 weeks;
+fifth contact 34 weeks; sixth contact at 36 weeks; seventh contact at 38 weeks and eighth
+contact at 40 weeks. The ANC mode encourages pregnant women to make unscheduled visits
+whenever they experience danger/warning signs during pregnancy.
+The Government of Nigeria, with support from the Global Fund to Fight AIDS, Tuberculosis,
+and Malaria (Global Fund), established the National Products Supply Chain Management
+Programme (NPSCMP) to facilitate the integration of supply chain systems across all public
+health interventions/programs and ensure effective logistics and supply of medicines and other
+health products to service delivery points. The NPSCMP coordinates the quantification,
+distribution, and warehousing of supplies with oversight from the Department of Food and Drug
+Services of the Federal Ministry of Health. At the state level, the NPSCMP is coordinated
+through the State Logistics Management Coordination Units.
+The revised Health Information System policy and the Health Information System Strategic
+Plan 2014-2018 provide the framework for the collection, collation, analysis, storage,
+dissemination, and use of health and health-related data. In line with this policy, the District
+Health Information Software 2 (DHIS2) is the platform for routine health facility data collection
+from public and private primary and secondary facilities at national and sub-national levels.
+The Department of Planning, Research, and Statistics is responsible for overseeing and
+building capacity for data management within the Ministry of Health.
+The Health Data Governance Council (HDGC), chaired by the Minister of Health, serves as the
+coordinating body that provides oversight and governance for health information and fosters
+the use of data for decision-making. The Health Data Consultative Committee (HDCC) is the
+operational arm of the HDGC. Both the HDGC and HDCC are replicated at the State and local
+government area levels.
+OTHER CONTEXTUAL INFORMATION
+Each State Governor, the Parliament, and State-level ministries that echo the Federal-level
+set-up determine the state’s budget and fund the same way despite being dependent on the
+consolidated income transfers from the Federation account. It is therefore advisable that
+Nigeria is considered the Federal Government and 36 different entities each with their peculiar
+context. However, even though the malaria program, through support by PMI and other
+partners, has pushed for the continuous inclusion of a malaria component into the health
+U.S. President’s Malaria Initiative Nigeria Malaria Profile 5
+budgets of the states leveraging on the annual operational plan development, the release of
+funds for the implementation of malaria activities has remained a challenge.
+Security challenges have been spreading persistently across the country, with the north east
+and north west being the epicenter and an increasing intensity across the other zones. This
+has posed a threat to the implementation of health interventions, especially at the community
+level; however, mitigative strategies have been developed contextually by partners who are on
+the ground in the implementing states to reduce the effect on the implementation of malaria
+program activities.
+III. NMEP STRATEGIC PLAN
+The current 2021–2025 National Malaria Strategic Plan (NMSP) of the National Malaria
+Elimination Program (NMEP) is based on the vision of achieving a malaria-free Nigeria, with
+the goal of reducing malaria morbidity to less than 10 percent parasite prevalence and
+mortality attributable to malaria to less than 50 deaths per 1,000 by 2025.
+The objectives of the 2021–2025 NMSP are as follows:
+● Improve access and utilization of vector control interventions to at least 80 percent of
+the targeted population by 2025.
+● Ensure provision of chemoprevention, diagnosis, and appropriate treatment for 80
+percent of the target populations at risk by 2025.
+● Improve generation of evidence for decision-making and impact through reporting of
+quality malaria data and information from at least 80 percent of health facilities (public
+and private) and other data sources, including surveillance, surveys, and operations
+research by 2025.
+● Strengthen coordination, collaboration, and strategic partnership to promote efficiency
+and effectiveness of malaria control activities toward achieving at least 75 percent
+improvement from baseline using a standardized organizational capacity assessment
+tool.
+● Improve funding for malaria control by at least 25 percent annually through predictable
+and innovative sources to ensure sustainability at federal and subnational levels.
+Under the strategic plan, the Government of Nigeria supports the provision of ITNs, targeted
+indoor residual spraying, targeted larval source management, intermittent preventive treatment
+for pregnant women (IPTp), seasonal malaria chemoprevention (SMC), and diagnosis and
+treatment of uncomplicated malaria through routine health services and integrated community
+case management (iCCM). The strategy also supports the treatment of severe malaria using
+injectable artesunate. There are two cross-cutting strategies: (i) Advocacy, Communication,
+and Social Mobilization (ACSM); and (ii) Procurement and Supply Management, which are
+listed in the Strategic Framework. The entire strategic plan is built on the bedrock of a
+strengthened health system. The 2021–2025 NMSP is aligned with the 2018–2022 National
+Strategic Health Development Plan and the September 2019 National Health Council theme
+U.S. President’s Malaria Initiative Nigeria Malaria Profile 6
+“Consolidating the Journey toward Achieving Universal Health Coverage” to underscore the
+global and national goal of achieving universal health coverage by 2030.
+PMI’s social and behavior change (SBC) support to objectives 1 and 2 of the NMSP are
+achieved through data-shaped, coordinated communication and non-communication
+interventions deployed across 11 PMI focus states. Support is deployed at the national, state,
+local government, ward, and community levels. Through partnerships with local media
+organizations, community-based organizations, and the deployment of community volunteers,
+PMI supports the NMEP’s efforts to expand mass media and community level interpersonal
+communication activities aimed at increasing correct and consistent ITN use and care, prompt
+care-seeking for fever, uptake of RDT tests and IPTp, and provider adherence to diagnostic
+results for treatment with artemisinin-based combination therapies (ACTs).
+At the federal and state levels, and in line with objective 4 of the NMSP, PMI supports SBC
+capacity strengthening activities, including for coordination, and the development of materials
+and relevant guidelines, such as the 2022 revised ACSM Strategy and Implementation Guide.
+At the State level, PMI continues to support 11 of 36 states to adapt the revised national ACSM
+Strategy to state contexts, develop annual operational plans and communication materials,
+and support partner coordination. Finally, in support of objective 3 of the NMSP, PMI continues
+to support the generation, analysis, and translation of malaria SBC evidence, through waves of
+behavioral sentinel surveys in selected program areas of Kebbi, Sokoto, and Zamfara states,
+that are translated into easily digestible formats, tailored to multiple audiences, and used to
+inform near real-time adaptations to ongoing malaria SBC program implementation.
+IV. KEY MALARIA DATA
+EVOLUTION OF KEY SURVEY-BASED MALARIA INDICATORS
+Table 3: Key Survey Indicators
+Indicator
+2015
+MIS
+2016
+MICS
+2018
+DHS
+2021
+MIS
+% of Households with at least one ITN
+69%
+65%
+60%
+56%
+% of Households with at least one ITN for every two people
+35%
+32%
+30%
+25%
+% of Population with access to an ITN
+55%
+50%
+47%
+43%
+% of Population that slept under an ITN the previous night
+37%
+41%
+43%
+36%
+% of Children under five years of age who slept under an ITN
+the previous night
+44%
+49%
+52%
+41%
+% of Pregnant women who slept under an ITN the previous
+night
+49%
+40%
+58%
+50%
+% of Children under five years of age with a fever in the last
+66%
+63%
+73%
+63%
+U.S. President’s Malaria Initiative Nigeria Malaria Profile 7
+two weeks for whom advice or treatment was sought
+% of Children under five years of age with a fever in the last
+two weeks who had a finger or heel stick
+13%
+14%
+14%
+24%
+% of Children receiving an ACT among children under five of
+age with a fever in the last two weeks who received any
+antimalarial drug
+38%
+21%
+28%
+74%
+% of Women who attended four ANC visits during their last
+pregnancy
+N/A
+N/A
+57%
+52%
+% of Women who received three or more doses of IPTp during
+their last pregnancy in the last two years
+21%
+15%
+17%
+31%
+Mortality rate of children under five years of age per 1,000 live
+births
+N/A
+120
+132
+N/A
+% of Children under five years of age with parasitemia by
+microscopy
+27%
+N/A
+23%
+22%
+% of Children under five years of age with parasitemia by RDT
+45%
+N/A
+36%
+39.6%
+ACT: artemisinin-based combination therapies; ANC: antenatal care; DHS: Demographic and Health Survey; IPTp: intermittent
+preventive treatment during pregnancy; ITN: insecticide-treated mosquito net; MICS: Multiple Indicator Cluster Survey; MIS:
+Malaria Indicator Survey; RDT: rapid diagnostic test.
+U.S. President’s Malaria Initiative Nigeria Malaria Profile 8
+Figure 3: ITN Use:Access Ratio Map
+Adoption and maintenance of ITN use and care is influenced by a range of barriers and
+facilitators, and these vary by geopolitical zones and sub-populations. A summary of key
+facilitators and barriers to ITN use, care-seeking for fever, and provider compliance to
+diagnostic/testing and treatment guidelines in Nigeria, drawn from a mix of sources, including
+population-based surveys such as Nigeria DHS 2018, Malaria Indicator Survey (MIS) 2021,
+activity end-line assessments, and a PMI co-funded 2019/2022 baseline and endline
+behavioral sentinel surveys are summarized below.
+U.S. President’s Malaria Initiative Nigeria Malaria Profile 9
+Table 4: Summary of Key Facilitators and Barriers to ITN Use, Care-seeking for Fever,
+and Provider Compliance to Diagnostic/Testing and Treatment Guidelines
+Behavior
+Known Facilitators
+Known Barriers
+ITN Use and Care
+Internal factors: Response Efficacy*
+Belief that ITNs prevent malaria doubles
+the odds of ITN use (OR = 1.99)
+Social factors: Norms*
+● Discussing ITN use with others in the
+last 12 months increases the odds of
+net use by 67% (OR = 1.67)
+● Perception that net use was the norm
+in the community increases the odds
+of use by 56 percent (OR =1.56)
+Environmental factors: Exposure*
+Exposure to at least one mass media
+campaign message on ITN use increased
+the odds of self-reported ITN use by 36
+percent (OR = 1.36)
+Internal factors: Perception*
+Belief that “there were no mosquitoes
+around”, that “the net was not needed”
+(suggesting possible seasonality in ITN
+use behaviors), and that “ITN was too
+hot” are reported barriers to net use.
+Prompt Care
+Seeking for Fever
+Demand for, and
+uptake of malaria
+testing among
+caregivers
+(Prompt is defined
+as care sought
+within 48 hours of
+onset of symptoms)
+Internal factors: High Malaria ideation**
+Perceived severity of malaria and
+knowledge of the cause of malaria were
+most predictive of care-seeking
+behaviors.
+● Caregivers with high scores on these
+two ideations were 1.8 and 1.6 times
+more likely to seek prompt care for a
+sick child
+Internal factors: Beliefs about health
+service*
+Provider trust and perceptions of health
+service readiness (e.g., availability of
+essential medicines).
+● Women who believed a health
+provider is the best person to talk to
+for a sick child were 1.9x as likely to
+take a child with fever to formal care
+and 1.6x as likely to get a febrile child
+tested for malaria.
+● Women who believed health facilities
+often have medicines needed for sick
+children were 25 percentage points
+(pp) or 1.25 times more likely to take a
+child with fever to formal care and are
+12 pp (or 1.12 times) more likely to get
+a febrile child tested for malaria***.
+Internal factors: Knowledge*
+Women who believed blood tests were
+the only way to know if a person has
+malaria were 2.4x as likely to have a
+febrile child tested for malaria.
+Social factors: Norms*
+Caregivers who perceived that prompt
+care seeking was the norm were 55
+percent (or 1.55 times) more likely to
+seek prompt care for febrile children.
+Emotional factors: Self-Efficacy
+Internal factors: Perceived Severity*
+Low perceived severity of malaria” is a
+main barrier to ITN use with only 47
+percent of respondents reporting that the
+consequences of malaria were severe.
+Internal factors: Beliefs about health
+services
+Poor perception of the quality of services
+in the public sector was a barrier to
+prompt care seeking. In Kebbi State, for
+example, the literature suggests distrust
+in public facility-based (or formal) care,
+especially free medicines****. This
+position is strengthened by a reported 31
+percent reduction in care seeking for
+pediatric fevers*** between 2019 and
+2022 in Kebbi state.
+Social factors: Gender Norms
+Gender norms that limit female
+participation in household
+decision-making or those that require
+women to seek and obtain spousal
+consent before accessing care from the
+formal health sector is a barrier to care
+seeking.****
+Environmental/Structural factors: High
+cost associated with care-seeking
+Costs prior to reaching the facility
+(distance and transportation cost) and
+costs related to obtaining service (cost of
+consultation, tests, drugs, wait time, etc.)
+are barriers to prompt care-seeking.****
+● For example, one-third of respondents
+surveyed in the 2019 BSS in Kebbi,
+Sokoto and Zamfara states cited
+healthcare costs as a main reason for
+not seeking care for a sick child (fever,
+diarrhea, and pneumonia inclusive).
+This proportion increased to nearly
+half (43%) in Kebbi in the 2022
+BSS***. Other reasons for not seeking
+care included fatalism (“Up to God”)
+and non-severe symptoms.
+U.S. President’s Malaria Initiative Nigeria Malaria Profile 10
+Women who felt confident that they could
+convince their husbands to seek formal
+care for a sick child were 8 pp more likely
+to seek formal care***, and 3.6x as likely
+to have a febrile child tested for malaria*.
+Adherence to Case
+Management
+Guidelines
+Known Barriers only*****
+Structural/Environmental factors: Scarcity mindset
+Providers, especially in high volume facilities, operate under a “scarcity” mindset in
+which inadequate resources, including time, negatively impact cognition and
+decision-making causing providers to “tunnel,” or intently focus on seeing as many
+clients as possible instead of adhering to case management protocols during
+consultations.
+Internal factor: Low perception of efficacy
+Providers think RDT results are not reliable, and lack trust in the validity of RDTs for
+malaria. This is often attributed to a perceived lack of RDT sensitivity to malaria in its
+early stages, its inability to detect different strains of malaria, concerns about test kits
+storage, or worries about tests being old or past their date of expiration.
+Internal factor: High perception of self-expertise to clinically diagnose cases
+Providers hold strong identities as clinical experts and are less sure of testing and
+treatment guidelines when test results contradict their clinical assessment. This
+“mental model of diagnosis” considers test results as a tool to complement expert
+medical opinions and not as one essential to form a diagnosis. “Overconfidence” in
+clinical assessment skills, outweighs confidence in the accuracy of the test.
+ITN: insecticide-treated mosquito net; RDT; rapid diagnostic test.
+* PMI-funded End-line Evaluation of Health Capacity Communication Collaborative (HC3) Nigeria, 2017.
+** General malaria ideation is an index of six variables (knowledge, perceived threat/susceptibility, perceived response
+efficacy, perceived self-efficacy, perceived social support & interpersonal communication) about malaria-related outcomes.
+***Source: Behavioral sentinel surveillance survey (BSS) in North West Nigeria: endline impact technical report, 2022
+**** Source: Breakthrough Action Maternal, Newborn Child Health and Nutrition and Malaria Literature Review, 2018
+***** Source: Breakthrough Action Nigeria: Provider Behavior Diagnosis Report, 2019
+Table 5: Evolution of Key Malaria Indicators Reported through Routine Surveillance
+Indicator
+2018
+2019
+2020
+2021
+2022
+# of All-cause patient
+consultations
+44,746,141
+52,729,811
+47,395,711
+52,521,775
+59,594,748
+# of Suspected malaria cases1
+23,440,420
+28,248,224
+27,013,175
+30,730,121
+34,180,314
+# of Patients receiving
+diagnostic test for malaria2
+20,450,528
+25,637,654
+24,049,641
+28,489,321
+32,351,917
+# of Malaria cases3
+19,042,032
+22,473,582
+21,005,907
+24,188,272
+25,844,221
+# of Confirmed cases4
+14,810,847
+18,860,723
+17,725,943
+21,087,956
+23,776,915
+# of Presumed cases5
+4,231,185
+3,612,859
+3,279,964
+2,772,294
+2,067,306
+% of Malaria cases confirmed6
+78%
+83.9%
+87.3%
+87%
+92%
+Test positivity rate7
+72%
+73.6%
+73.7%
+74%
+74%
+# of Children under five years
+of age with malaria8
+7,727,256
+8,741,018
+7,947,300
+8,406,640
+8,655,854
+% Cases in children under five
+41%
+38.9%
+37.8%
+34.7%
+33.5%
+U.S. President’s Malaria Initiative Nigeria Malaria Profile 11
+years of age9
+# of Severe cases10
+273,003
+267,175
+266,701
+328,022
+322,651
+# of Malaria deaths11
+n/a
+n/a
+n/a
+n/a
+n/a
+# of Facilities reporting12
+343,752
+366,706
+366,788
+383,218
+399,187
+% of Data completeness13
+79%
+85.2%
+74%
+82%
+87.3%
+1
+Number of patients presenting with signs or symptoms possibly due to malaria;
+RDT or microscopy, all ages, outpatient and inpatient;
+3
+Total reported malaria cases; all ages, outpatient and inpatient, confirmed and unconfirmed cases;
+4
+Diagnostically confirmed; all ages, outpatient and inpatient;
+5
+Clinical/presumed/unconfirmed; all ages, outpatient and inpatient;
+6
+# confirmed cases divided by total # cases;
+7
+Confirmed cases divided by # patients receiving a diagnostic test for malaria (RDT or microscopy);
+8
+Outpatient and inpatient, confirmed and unconfirmed;
+9
+Total # children under five years of age cases divided by total # of cases;
+10
+There is severe malaria data element captured in the HMIS; includes all cases of P. falciparum malaria with certain
+conditions;
+11
+All ages, outpatient, inpatient, confirmed, and unconfirmed;
+12
+Total # of health facilities reporting data into the HMIS/DHIS2 system that year;
+13
+# monthly reports from health facilities divided by # health facility reports expected (average for the calendar year).
+2
+V. OTHER IMPLEMENTATION INFORMATION
+The durability monitoring of campaign nets from the 2015-2018 cohorts successfully took place
+in Ebonyi, Zamfara, and Oyo. The results for the physical durability were within the expected
+range but showed some differences in performance of the same ITN brand in different
+locations. Nets in Zamfara performed significantly above expectations with an estimated
+median survival of 5.3 years compared to 3.3 and 3.2 for Ebonyi and Oyo, respectively. All
+campaign net samples showed sufficient insecticidal effectiveness.
+Table 6: Results of Durability Monitoring
+Site/Net Type
+Survey and Time
+Since
+Distribution
+(months)
+Attrition to Wear
+and Tear (%)
+Nets in
+Serviceable
+Condition (%)
+Optimal
+Insecticidal
+Effectiveness in
+Bioassay (%)
+Ebonyi/Deltamethrin
+36 months
+38%
+46.8%
+100%
+Zamfara/Deltamethrin
+36 months
+44%
+7.5%
+97%
+Oyo/Deltamethrin
+24 months
+22%
+20.6%
+100%
+U.S. President’s Malaria Initiative Nigeria Malaria Profile 12
+Table 7: Summary of Completed Therapeutic Efficacy Studies
+Year
+Site
+Treatment arm(s) Efficacy (PCR-corrected adequate clinical and
+parasitological result) for each drug at each site
+20141
+Adamawa
+AL
+92.2%*
+20141
+Anambra
+AL
+100%*
+20141
+Bayelsa
+AL
+100%*
+20141
+Imo
+AL
+100%*
+20141
+Kano
+AL
+100%*
+20141
+Kwara
+AL
+100%*
+20141
+Oyo
+AL
+100%*
+20141
+Sokoto
+AL
+100%*
+20141
+Adamawa
+ASAQ
+95.8%*
+20141
+Anambra
+ASAQ
+100%*
+20141
+Bayelsa
+ASAQ
+96%*
+20141
+Imo
+ASAQ
+100%*
+20141
+Kano
+ASAQ
+100%*
+20141
+Kwara
+ASAQ
+100%*
+20141
+Oyo
+ASAQ
+100%*
+20141
+Sokoto
+ASAQ
+93.3%*
+20141
+Adamawa
+DP
+98.1%*
+20141
+Anambra
+DP
+100%*
+20141
+Bayelsa
+DP
+100%*
+20141
+Imo
+DP
+100%*
+20141
+Kano
+DP
+100%*
+20141
+Kwara
+DP
+100%*
+20141
+Oyo
+DP
+100%*
+20141
+Sokoto
+DP
+100%*
+20162
+Oyo
+AL
+100%
+20162
+Oyo
+ASPY
+100%
+20191
+Kola
+AL
+100%
+U.S. President’s Malaria Initiative Nigeria Malaria Profile 13
+20191
+Kola
+ASPY
+100%
+20191,2
+Labé
+AL
+99%
+AL: artemether-lumefantrine; ASAQ: artesunate-amodiaquine; ASPY: artesunate-pyronaridin; DP:
+dihydroartemisinin-piperaquine; PCR: polymerase chain reaction.
+Follow up period for AL, ASAQ and ASPY was 28 days. Follow up period for DP was 42 days
+*Sample sizes for this study were very small (n=4-51), well below the WHO recommended minimum and recruitment targets
+determined by traditional sample size calculations. Results from these sites are underpowered.
+1
+Evenebe, J., et al. Efficacy of artemisinin-based combination treatments of uncomplicated falciparum malaria in
+under-five-year-old Nigerian children ten years following adoption as first-line antimalarials. American Journal Tropical
+Medicine and Hygiene. (Arlington, Virginia, USA, 2018): DOI: 10.4269/ajtmh.18-0115.
+2
+Funwei, R., Uyaiabasi, G., Hammed, W., Ojurong, O., & Falade, C. High prevalence of persistent residual parasitemia on day
+3 and 14 after artemether-lumefantrine or pyronaridine-artesunate treatment of uncomplicated Plasmodium falciparum malaria
+in Nigeria. Parasitology Research (Springer-Nature, Switzerland, 2023): DOI: 10.1007/s00436-022-07753-8.
+Table 8: Recently Completed and Ongoing Antimalarial Therapeutic Efficacy Studies
+Year
+Sites
+PMI
+Funded
+Y/N
+Treatment
+Arms
+PCR-Corrected
+ACPR>90%
+Location Molecular
+Resistance Work
+Completed or
+Planned
+2020
+Cross River,
+Adamawa,
+Sokoto
+Y
+AL, ASAQ,
+PA
+Pending
+Completed at
+Redeemers’
+University, Nigeria
+2021
+Imo,
+Kaduna,
+Kwara,
+Lagos
+Y
+AL, ASAQ,
+DHP, PA
+Pending
+Completed at
+Redeemers’
+University, Nigeria
+2023
+Anambra,
+Bayelsa,
+Oyo, Yobe
+Y
+AL, DHP, PA
+Paused until
+2020 & 2021
+results are
+generated
+Nigerian Institute of
+Medical Research
+(NIMR)
+AL: Artemether-lumefantrine; ASAQ: Artesunate-amodiaquine; DHP: dihydroartemisinin-piperaquine; PA:
+pyronaridine-artesunate.
+VI. KEY POLICIES
+Table 9: Policies in Nigeria
+National Strategic Plan (2021-2025)
+National SM&E Plan (2021-2025)
+National Digital Health Strategy (2021-2025)
+National Social Behavior Change/Communication Strategy (2022)
+Nigeria Malaria ACSM Strategy & Implementation Guide (2022)
+National Supply Chain Strategy/Master Plan (2016)
+National Vector Control Strategy and/or Integrated Vector Management Plan (2015)
+U.S. President’s Malaria Initiative Nigeria Malaria Profile 14
+National Guideline for Diagnosis & Treatment of Malaria (2020)
+National Plan for Insecticide Resistance Monitoring (2017-2020)
+What is/are the first-line treatment(s) for
+uncomplicated P. falciparum malaria*?
+Recommended ACTs –
+(Artemether-Lumefantrine (AL),
+Artesunate-Amodiaquine [AA],
+dihydroartemisinin piperaquine,
+artesunate-pyronaridine)
+What is/are the second-line treatment(s) for
+uncomplicated P. falciparum malaria*?
+Nigeria only has recommended ACTs and any
+of the above available can be used to treat
+uncomplicated malaria.
+What is the first-line treatment for severe malaria?
+Injectable Artesunate (IV or IM)
+In pregnancy, what is the first-line treatment for
+uncomplicated P. falciparum malaria in the first
+trimester?
+ACTs
+In pregnancy, what is/are the first-line treatment(s) for
+uncomplicated P. falciparum malaria in the second
+and third trimesters?
+ACTs
+In pregnancy, what is the first-line treatment for
+severe malaria?
+Injection Artesunate (IV or IM)
+Is pre-referral treatment of severe disease
+recommended at peripheral health facilities? If so,
+with what drug(s)?
+Yes, it is. IM Artesunate/IM Artemether/Rectal
+Artesunate
+Is pre-referral treatment of severe disease with rectal
+artesunate recommended for community health
+workers?
+No
+Community Health Policy (2021)
+What is the # of CHWs currently providing iCCM?
+Information is not currently available.
+What is the country’s target for the number of CHWs
+providing iCCM?
+Estimated at 10 CHIPS agents per ward
+where eligible.
+What percent of the country’s target is met?
+There are 8,289 trained CHIPs agents.
+Does the country have a policy that enables the
+routine, regular payment of salaries/stipends for
+CHWs?
+Yes
+Do CHWs have the authority to test and treat all ages
+for malaria?
+Yes
+Prevention of Malaria in Pregnancy Policy (2015)
+At what gestational age is the first dose of IPTp-SP to
+be given to pregnant women according to the national
+guidelines for malaria and maternal and child health?
+13 weeks gestation
+Do the national ANC guidelines reflect the WHO 2016
+The Federal Ministry of Health ANC
+U.S. President’s Malaria Initiative Nigeria Malaria Profile 15
+recommendation of 8 ANC scheduled contacts (plus
+one additional contact for early initiation of IPTp at
+13-16 weeks)? If not, how many ANC contacts are
+recommended?
+orientation package for health workers (2018)
+reflects the WHO 2016 recommendation of 8+
+contacts.
+What is the status of training ANC providers on the
+WHO recommended 8+ contacts?
+Training of ANC providers is consistent with
+the WHO recommended 8 contacts
+Have HMIS/DHIS2 and ANC registers been updated
+to include 8+ contacts?
+The NHMIS/DHIS2 and ANC registers have
+been updated to include 8+ contacts.
+Are IPTp data collected as single months where the
+January 2022 data represent the number of doses
+administered in January 2022, or cohort data,
+representing the cumulative data from pregnancies
+which began 6 months prior?
+IPTp data is collected as single months
+representing the number of doses
+administered for each category (IPTp1, IPTp2,
+IPTp3 and >=IPTp4).
+Is ANC/IPTp provided by facility staff conducting ANC
+outreach to communities?
+No, IPTp is not implemented through
+community outreaches. Community IPTp is
+still being piloted.
+Can CHWs deliver IPTp and if so, which specific
+cadres and beginning with which dose?
+Not at this time.
+ACT: artemisinin-based combination therapies; ANC: antenatal care; CHIPS: Community Health Influencers and
+Promoters of Services; CHW: community health worker; DHIS2: District Health Information Software 2; HMIS: health
+management information system; iCCM: integrated community case management; IM: intramuscular; IPTp:
+intermittent preventive treatment during pregnancy; IV: intravenous; SP: sulphadoxine-pyrimethamine.
+U.S. President’s Malaria Initiative Nigeria Malaria Profile 16
+VII. PARTNER LANDSCAPE
+Figure 4: Partner Landscape by State
+U.S. President’s Malaria Initiative Nigeria Malaria Profile 17
+Table 10: Partner Landscape
+Partner
+Key technical
+interventions
+Geographic
+coverage
+Global Fund
+●
+●
+Vector Control
+Specific prevention
+interventions (ITN & SMC
+campaigns)
+Case Management
+●
+Drug based prevention
+(SMC, IPTp)
+Prevention using ITNs
+Case Management
+SBCC
+Commodities (ITNs, ACTs,
+RDTs SP and SPAQ-SMC)
+procurement from the third
+year
+Health Systems
+Strengthening and
+Technical support
+●
+SBC (Extending reach of
+malaria messages via digital
+and mass media channels)
+11 states
+●
+World
+Bank+Islamic
+Development
+Bank
+●
+●
+●
+●
+●
+●
+Airtel Nigeria
+●
+●
+●
+Funding
+amount or
+in-kind
+contribution
+Timeframe
+National level
+technical
+assistance
+13 states
+$417.7m
+Current grant
+covers 2024 to
+2026
+National level
+technical
+assistance
+11 states
+$288m
+Current grant
+covers 2021 to
+2025
+$578,496
+$216,011
+Jan 2022 March 2023
+ACT: artemisinin-based combination therapies; IPTp: intermittent preventive treatment during pregnancy; ITN:
+insecticide-treated mosquito net; SBC: social and behavior change; SBCC: Social and Behaviour Change Communication;
+RDT: rapid diagnostic test; SMC: seasonal malaria chemoprevention; SP: sulphadoxine-pyrimethamine; SPAQ:
+sulphadoxine-pyrimethamine and amodiaquine.
+U.S. President’s Malaria Initiative Nigeria Malaria Profile 18

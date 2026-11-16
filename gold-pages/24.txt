@@ -1,0 +1,213 @@
+ROW 24 | 1162d2354b | perplexity | H2-NG
+CLAIM: In Nigeria, BCG, OPV 0, and hepatitis B birth dose are given at birth.
+URL: https://build.fhir.org/ig/Nigeria-FHIR-Community/NPHCDA-ImmunizationIG/branches/main/health-interventions-recommendations.html
+STATUS: ok
+
+Health Interventions and Recommendations - NPHCDA Immunization FHIR IG v0.9.0
+NPHCDA Immunization FHIR IG
+0.9.0 - ci-build
+FHIR
+Home
+Business Requirements (DAK) – L2
+Business Requirements Overview
+Health Interventions and Recommendations
+Generic Personas
+User Scenarios
+Business Processes and Workflows
+Decision Support Logic
+Core Data Elements
+Indicators
+Functional Requirements
+Non-Functional Requirements
+FHIR Artifacts – L3
+FHIR Artifacts Overview
+Profiles and Extensions
+Terminology
+Examples and Instances
+Capability Statements and Logical Models
+Model-to-Profile Map
+Privacy and Security
+Table of Contents
+Health Interventions and Recommendations
+NPHCDA Immunization FHIR IG, published by https://nphcda.gov.ng. This guide is not an authorized publication; it is the continuous build for version 0.9.0 built by the FHIR (HL7&reg; FHIR&reg; Standard) CI Build. This version is based on the current content of https://github.com/Nigeria-FHIR-Community/NPHCDA-ImmunizationIG/ and changes regularly. See the Directory of published versions
+Health Interventions and Recommendations
+General Vaccine Administration Practices
+Nigeria Routine Immunization Schedule
+Timing Notes
+Nigeria and Global Guidelines, Recommendations, and Guidance
+Intended Audience and Reading Suggestions
+The interventions referenced in this Digital Adaptation Kit (DAK) are based on Nigeria's National Immunization Schedule and the World Health Organization's Universal Health Coverage list of essential interventions.
+This DAK focuses on childhood routine immunization in Nigeria and describes the interventions, service-delivery activities, and recommended practices that should be supported by digital immunization systems.
+General Vaccine Administration Practices
+General vaccine administration practices for eligible clients, including children, include:
+Counselling on the vaccine or vaccines to be administered, including the delivery of an appropriate health talk.
+Documentation of vaccinations received, including entries recorded on the Child Health Card.
+Documentation and reporting of immunizations administered.
+Observation for adverse events following immunization (AEFI).
+Targeted history-taking and physical examination before vaccination, where appropriate.
+Identification and tracking of clients who have defaulted from the immunization schedule.
+Scheduling and completion of follow-up visits.
+Nigeria Routine Immunization Schedule
+The following vaccines and related interventions are included in Nigeria's routine childhood immunization schedule.
+Minimum Target Age
+Vaccine or Intervention
+Dosage
+Route of Administration
+Administration Site
+At birth
+BCG
+0.05 mL
+Intradermal
+Left upper arm
+OPV 0
+2 drops
+Oral
+Mouth
+Hepatitis B birth dose
+0.5 mL
+Intramuscular
+Anterolateral aspect of the right thigh
+6 weeks
+Pentavalent 1 (DPT, Hepatitis B, and Hib)
+0.5 mL
+Intramuscular
+Anterolateral aspect of the left thigh
+Pneumococcal Conjugate Vaccine 1
+0.5 mL
+Intramuscular
+Anterolateral aspect of the right thigh
+OPV 1
+2 drops
+Oral
+Mouth
+Rotavirus Vaccine 1
+5 drops
+Oral
+Mouth
+IPV 1
+0.5 mL
+Intramuscular
+Anterolateral aspect of the right thigh, at least 2.5 cm from the PCV injection site
+10 weeks
+Pentavalent 2 (DPT, Hepatitis B, and Hib)
+0.5 mL
+Intramuscular
+Anterolateral aspect of the left thigh
+Pneumococcal Conjugate Vaccine 2
+0.5 mL
+Intramuscular
+Anterolateral aspect of the right thigh
+OPV 2
+2 drops
+Oral
+Mouth
+Rotavirus Vaccine 2
+5 drops
+Oral
+Mouth
+14 weeks
+Pentavalent 3 (DPT, Hepatitis B, and Hib)
+0.5 mL
+Intramuscular
+Anterolateral aspect of the left thigh
+Pneumococcal Conjugate Vaccine 3
+0.5 mL
+Intramuscular
+Anterolateral aspect of the right thigh
+OPV 3
+2 drops
+Oral
+Mouth
+Rotavirus Vaccine 3
+5 drops
+Oral
+Mouth
+IPV 2
+0.5 mL
+Intramuscular
+Anterolateral aspect of the right thigh, at least 2.5 cm from the PCV injection site
+5 months
+Malaria Vaccine 1
+0.5 mL
+Intramuscular
+Deltoid region
+6 months
+Vitamin A, first dose
+100,000 IU
+Oral
+Mouth
+Malaria Vaccine 2
+0.5 mL
+Intramuscular
+Deltoid region
+7 months
+Malaria Vaccine 3
+0.5 mL
+Intramuscular
+Deltoid region
+9 months
+Measles-Containing Vaccine, first dose (MCV1)
+0.5 mL
+Subcutaneous
+Left upper arm
+Yellow Fever Vaccine
+0.5 mL
+Subcutaneous
+Right upper arm
+Meningitis Vaccine
+0.5 mL
+Intramuscular
+Anterolateral aspect of the left thigh
+12 months
+Vitamin A, second dose
+200,000 IU
+Oral
+Mouth
+15 months
+Measles-Containing Vaccine, second dose (MCV2)
+0.5 mL
+Subcutaneous
+Left upper arm
+Malaria Vaccine 4
+0.5 mL
+Intramuscular
+Deltoid region
+9 years
+Human Papillomavirus Vaccine (HPV)
+0.5 mL
+Intramuscular
+Deltoid muscle of the upper arm
+Timing Notes
+BCG should preferably be administered within two weeks of birth but may be administered up to 11 months of age.
+OPV 0 should be administered before the child reaches two weeks of age.
+The hepatitis B birth dose should be administered within 24 hours of delivery.
+Scope note: This DAK includes content for childhood routine immunization in Nigeria. Non-routine adult vaccination and vaccination campaigns are outside its current scope.
+Nigeria and Global Guidelines, Recommendations, and Guidance
+The interventions described in this DAK draw primarily from Nigeria's national immunization policies, schedules, guidelines, registers, reporting tools, and programme recommendations. Where a relevant recommendation is not explicitly defined for Nigeria, applicable WHO guidance is used as the default reference.
+The following documents and resources informed this DAK:
+WHO recommendations for routine immunization.
+Nigeria Immunization Schedule.
+Basic Guide on Routine Immunization for Service Providers in Nigeria .
+Draft National Immunization Policy.
+Child Health Immunization Card.
+Immunization registers used in Nigeria.
+Immunization tally sheets used in Nigeria.
+National Vaccine Policy.
+Nigeria Strategy for Immunization and Primary Health Care System Strengthening, 2018–2028 .
+Nigeria National Digital Health Information for Immunization and Primary Health Care Roadmap, 2023–2027 .
+Surveillance of Adverse Events Following Immunization: Field Guide , 2011.
+Intended Audience and Reading Suggestions
+The intended audience for this document includes:
+Business analysts.
+Routine immunization programme managers.
+Software developers and solution architects.
+Digital health implementers.
+Monitoring and evaluation personnel.
+Quality-assurance and conformance-testing teams.
+Trainers and other project personnel responsible for designing or adapting digital immunization workflows in Nigeria.
+This document is intended to provide a clear description of Nigeria's routine immunization business processes and recommended interventions for use in the development, configuration, upgrade, maintenance, testing, and training of digital immunization systems.
+Readers designing or evaluating a digital solution should use this page together with the DAK sections covering personas, user scenarios, business processes and workflows, decision-support logic, functional requirements, and non-functional requirements. Collectively, these sections define the expected system behaviour and provide a basis for verifying that an implemented solution functions as intended.
+See the complete Digital Adaptation Kit (DAK) here
+IG © 2025+ https://nphcda.gov.ng . Package ng.gov.nphcda.immunization#0.9.0 based on FHIR 4.0.1 . Generated 2026-10-07
+Links: Table of Contents |
+QA Report

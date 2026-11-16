@@ -1,0 +1,123 @@
+ROW 20 | ec56532c8a | perplexity | H4-NG
+CLAIM: Nigeria’s NCDC directs suspected or confirmed Lassa fever cases to designated isolation centres with trained staff and appropriate infection-prevention and control.
+URL: https://ncdc.gov.ng/diseases/factsheet/47
+STATUS: ok
+
+Nigeria Centre for Disease Control and Prevention
+Nigeria Centre for Disease Control and Prevention Protecting the health of Nigerians
+Toggle navigation
+Home
+About
+NCDC
+Departments
+Leadership
+Office of the DG
+Publications
+Weekly Epidemiological Reports
+Situation Reports
+Project Reports
+Annual Reports
+Guidelines/Protocol
+Establishment/Guiding Documents
+Research
+IDSR Forms
+State Incident Action Plan
+Diseases
+A-Z
+News
+General News
+Disease Outbreak News
+Ebola
+Training
+NFELTP
+Internship
+NCDC Tour
+Projects
+Projects
+SRAMF
+Jobs
+Dashboard
+e-Learning
+Contact
+Library
+Videos
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Background
+Transmission
+Symptoms
+Diagnosis/Testing
+Treatment
+No diseases in this listing
+{{disease_name}}
+First Published: {{created_at}} | Last updated: {{updated_at}}
+Background
+{{background}}
+Transmission
+{{transmission}}
+Symptoms
+{{symptoms}}
+Diagnosis/Testing
+{{diagnosis_testing}}
+Treatment
+{{treatment}}
+Contacts
+Plot 801, Ebitu Ukiwe Street, Jabi, Abuja, Nigeria
+6232 (Toll-Free Call Centre)
+[email protected]
+Social Media
+@NCDCgov
+@NCDCgov
+NCDC
+NCDCgov
+t.me/NCDCgov (Telegram)
+Subscribe to Newsletter
+Mandate of NCDC
+The Nigeria Centre for Disease Control and Prevention (NCDC) was established in the year 2011 in response to the challenges of public health emergencies and to enhance Nigeriaâ€™s preparedness and response to epidemics through prevention, detection and control of communicable diseases.
+Terms and Conditions
+Connect Centre
+Toll Free Number: 6232
+Whatsapp: +234 708 711 0839
+SMS Number: +234 809 955 5577
+&times;
+Contact us on any of our handles
+Toll Free
+6232
+SMS
+0809 955 5577
+Whatsapp
+0708 711 0839
+Facebook
+@NCDCgov
+Twitter
+@NCDCgov
+&times;
+Subscribe to our Weekly Epidemiological Report mailing list.
+* indicates required
+Email Address *
+First Name
+Last Name

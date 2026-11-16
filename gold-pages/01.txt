@@ -1,0 +1,485 @@
+ROW 1 | 256ac84e4a | perplexity | M4-NG
+CLAIM: Central Bank of Nigeria's February 2021 circular had restricted banks and other financial institutions from operating accounts for cryptocurrency-service providers.
+URL: https://www.cbn.gov.ng/out/2024/fprd/guidelines%20on%20operations%20of%20bank%20accounts%20for%20virtual%20asset%20providers.pdf
+STATUS: ok
+
+Central Bank of Nigeria
+Financial Policy & Regulation Department
+Plot 33, Abubakar Tafawa Balewa Way
+Central Business District
+P.M.B. 0187, Garki, Abuja Nigeria.
+Email: fprdcbn.gov.ng
+Website: .Qbn.ov.n
+Phone: 09-462-37402, 09-462-37404
+December 22. 2023
+-
+FPRIDIRIPUBICIRIOO2IOO3
+CIRCULAR TO ALL BANKS AND OTHER FINANCIAL INSTITUTIONS
+GUIDELINES ON OPERATIONS OF BANK ACCOUNTS FOR VIRTUAL
+ASSETS SERVICE PROVIDERS (VASPs)
+The CBN in February 2021 issued a circular restricting banks and other financial
+institutions from operating accounts for cryptocurrency service providers in view of
+the money laundering and terrorism financing (ML/TF) risks and vulnerabilities
+inherent in their operations as wefl as the absence of regulations and consumer
+protection measures.
+However current trends globally have shown that there is need to regulate the
+activities of virtual assets service providers (VASPs) which include
+cryptocurrencies and crypto assets. Following this development, the Financial
+Action Task Force (FATF) in 2018 also updated its Recommendation 15 to require
+VASPs to be regulated to prevent misuse of virtual assets for ML/TF/PF.
+Furthermore, Section 30 of the Money Laundering (Prevention and Prohibition) Act,
+2022 recognizes VASPs as part of the definition of a financial institution. In addition,
+the Securities and Exchange Commission (SEC) in May 2022 issued Rules on
+Issuance, Offering and Custody of Digital Assets and VASPs to provide a
+regulatory framework for their operations in Nigeria.
+In view of the foregoing, the CBN hereby issues this Guidelines to provide guidance
+to financial institutions under its regulatory purview in respect of their banking
+relationship with VASPs in Nigeria.
+Guidelines
+The
+supersedes
+the
+CBN’s
+circulars
+referenced
+FPR/DIR/GEN/CIR/06/010 of January 12, 2017 and BSD/DIR/PUB/LAB/014/001
+of February 5, 2021 on the subject. However, banks and other financial institutions
+are still prohibited from holding, trading and/or transacting in virtual currencies on
+their own account.
+Accordingly, all banks and other financial institutions are hereby required to
+immediately comply with the provisions of the Guidelines.
+HARUNA B. MUSTAFA
+DIRECTOR, FINANCIAL POLICY AND REGULATION DEPARTMENT
+a
+CENTRAL BANK OF NIGERIA
+GUIDELINES ON OPERATIONS OF BANK ACCOUNTS FOR
+VIRTUAL ASSETS SERVICE PROVIDERS
+December 22, 2023
+Page 1 ofil
+ified as Confidential
+Contents
+1.0
+PREAMBLE
+3
+2.0
+OBJECTIVES
+3
+3.0
+SCOPE
+3
+4.0
+DEFINIT’ONS
+3
+5.0
+ELIGIBLE STAKEHOLDERS
+4
+6.0
+PERMISSIBLE ACTI VITIES
+5
+7.0
+OPERATION OF BANK ACCOUNT BY VASPs
+S
+8.0
+RISK MANAGEMENT FOR ANTI-MONEY LAUNDERING, COMBATI\G THE FINANCING OF
+TERRORISM AND COUNTER PROLIFERATION FINANCING (AML, CFT, AND CPF)
+8
+9.0
+CONSUMER PROTECTION MEASURES
+10
+10.0
+SANCTIONS
+10
+11.0
+AMENDMENT TO THE GUIDELINES
+10
+12.0
+GLOSSARY OF TERMS
+11
+Page 2 ofli
+fied as ConfidentiaF
+1.0
+PREAMBLE
+In exercise of the powers conferred on the Central Bank of Nigeha (CBN) by the Central Bank of Nigeria
+Act, 2007 and Banks and Other Financial Institutions Act (BOFIA) 2020, the CBN hereby issues
+these Guidelines to institutions under its regulatory purview to govern their relationship with Virtual Assets
+Service Providers in Nigeha.
+OBJECTIVES
+2.0
+The objectives of the Guidelines are to:
+3.0
+•
+provide minimum standards and requirements for banking business relationships and account
+opening for Virtual Assets Service Providers in Nigeha;
+•
+provide for effective monitoring of the activities of Banks and Other Financial Institutions in
+providing service for Securities and Exchange Commission (SEC) licensed VASPsfDigitaI
+Assets (DA) entities in Nigeria;
+•
+Provide guidance on the relationship and operations of accounts for licensed VASPs/DA entities;
+and
+•
+Ensure effective risk management in the banking industry with regards to the operations of
+licenced VASPS.
+SCOPE
+The Guidelines shall apply to banks and other financial institutions under the regulatory purview of the
+CBN. The Guidelines complements relevant provision in Money Laundering (Prevention and Prohibition)
+Act Central Bank of Nigea (Anti-Money Laundering, Combating the Financing of Terrorism and
+Countering Proliferation Financing of Weapons of Mass Destruction in Financial Institutions),
+Regulations, Customer Due Diligence Regulations and other relevant AMLJCFT/CPF laws and
+regulations issued by competent authorities,
+4.0
+DEFINITIONS
+In this Guidelines,
+Digital Asset means a digital token that represents assets such as a debt or equity claim on the issuer.
+Digital Asset Custodian means a person who provides the services of safekeeping, storing, holding or
+maintaining custody of virtual assets/digital tokens for the account of another person.
+Digital Asset Exchange (DA)() means an electronic plafforni which facilitates the trading of a virtual
+asset or digital asset,
+Digital Asset Exchange Operator means a person who operates a DAX
+Page 3 ofli
+fled as Confidential
+Digital Asset Offering shall include Initial Coin Offerings (ICOs) and other Distributed Ledger
+Technology (DLT) offers of digital assets.
+Digital Asset Offering Platform means an electronic platform operated by a DAOP operator for offering
+digital assets.
+Financial Institutions (FIs) means banks and other financial institutions as defined in Banks and Other
+Financial Institutions Act (BOFIA)
+Senior Management means officers of the bank from the rank of Assistant General Manager (AGM) and
+above.
+Virtual Asset means a digital representation of value that can be transferred, digitally traded and can be
+used for payment or investment purposes. It shall not include digital representations of fiat currencies,
+secuhties and other financial assets that are already covered elsewhere in the FATE recommendations.
+Virtual Assets Service Providers (VASP5) means any entity who conducts one or more of the following
+activities or operations for or on behalf of another person:
+i, exchange between virtual assets and flat currencies;
+ii.
+exchange between one or more forms of virtual assets;
+hi. transfer of virtual assets;
+iv. safekeeping and/or administration of virtual assets or instruments enabling control over virtual
+assets; and
+v.
+participation in and provision of financial services related to an issuers offer and/or sale of a
+virtual asset.
+5.0
+I.
+II.
+Ill.
+ELIGIBLE STAKEHOLDERS
+Commercial and Merchant banks
+Payment Service Providers (restricted to those that are involved in settlement for third parties)
+All entities registered by the Securities and Exchange Commission (SEC) to conduct the
+business of digital/virtual assets services provision and shall include:
+a) Virtual Assets Service Providers.
+b) Digital Asset Custodian.
+c) Digital Asset Offering Platform.
+d) Digital Asset Exchange.
+e) DAX Operator.
+U
+And any other entity that may be categorized by the CBN from time to time.
+Page 4 of 11
+ified as Confidential
+PERMISSIBLE ACTIVITIES
+6.0
+In addition to the permissible activities of each category of institution, FIs are permitted to undertake
+the following activities in their operations of accounts for VASPs:
+i. Opening of designated accounts.
+N, Provide designated settlement accounts and settlement services.
+iii. Act as channels for FX flows and trade
+iv. Any other activity that may be permitted by the CBN from time to time.
+OPERATION OF BANK ACCOUNT BY VASPs
+7.0
+7.1
+Designation of accounts
+From the commencementof these Regulations, Fl shall not open or permit the operation of any account
+by any person or entity to conduct the business of virtual/digital assets unless that account is
+designated for that purpose and opened in line with the requirement of these Guidelines.
+7.2 Designated
+account to
+be
+opened
+with
+approval
+of the
+senior
+management
+The designated account shall only be opened with the approval of senior management of the F I.
+7.3 Account openingldocumentation requirement
+Any application for opening a designated account by a company providing virtual/digital asset services
+under these Guidelines shall be supported by the following documents:
+a. evidence of a valid licence issued by the Securities and Exchange Commission (SEC) for the
+entity to engage in the business of VASP/DAXIDAOP.
+b. certified true copy of the memorandum and article of association.
+c. certified true copy Form CAC 2— Statement of share capital and return of allotment of shares.
+d. certified true copy Form CAC 2.1 particulars of secretary.
+e. certified true copy Form CAC 3—notice of registered address.
+f.
+certified true copy Form CAC 7— Particulars of Directors.
+g. verifiable registered address of the company.
+h. copy of Certificate of Capital Importation (CCI) (where applicable)
+i.
+valid means of identification of all the directors, principal officers and beneficial owners of the
+company.
+j.
+BVN of all the directors, principal officers and beneficial owners of the company.
+k.
+Home address of all the directors, principal officers and beneficial owners of the company.
+PageS ofil
+ified as Confidential
+I.
+AML, CFT and CPF Policy of the entity.
+m. All other requirements of a corporate account in line with the CBN ODD Regulations
+n. Any other requirement that the CBN may impose from time to time.
+7.4 Restriction on the use of account
+i. An account opened in accordance with these Guidelines shall only be used for transactions
+on virtual/digital assets and not for any other purpose.
+U. No cash withdrawal shall be allowed from the account.
+hi. No third-party cheque shall be cleared from the account.
+iv. Except for settlement of a virtual/digital assets transaction which shall be done through a
+transfer to another designated account, withdrawal shall be only through a Managers’ Cheque
+or transfer to an account.
+7.5 Returns on the activities of the account to CBN
+i. FIs shall monitor, on a continuous basis, all activities conducted in designated accounts opened in
+accordance with these Guidelines.
+U. FIs shall, at the end of every month and not later than the 10th day of the following month, submit
+to the relevant supervisory department of CBN, data and other information on designated account.
+The content of the returns shall include but not limited to:
+a. The number of designated accounts opened within the reporfing period;
+b. The value and volume of transactions conducted in each account within the reporting period;
+c. The details of the counter party(ies) to the transactions;
+d. Incidents of fraud or theft; and
+e. Number of customer complaints and remedial measures taken.
+7.6 Operational and transactional limits
+I.
+FIs shall establish transaction limits for each designated account opened in accordance with
+these Guidelines in line with its hsk assessment criteria.
+ii. The limits shall be prudent and bear a relationship to the volume of cash moved by the account
+holder and the risks associated with the conduct and nature of the business of the account holder.
+7.7 Designated accounts shall not be run on concession
+FIs shall not allow or enter into any concession agreement/arrangement with a holder of a designated
+account. The account shall, at all times be subject to the maximum transaction charges band as
+provided for under the CBN Guide to Charges for Banks and Other Financial institutions.
+Page 6 of 11
+ified as Confidential
+7.8 Dormant account
+i. Any designated account opened in accordance with these Guidelines shall be declared dormant if
+no customer induced transaction is carried out for three (3) consecutive months.
+U. Any account declared dormant in line with the requirement of these Guidelines shall be closed
+forthwith and a notice of such closure shall be served on the account holder and the balance in
+such account shall be treated in line with the requirement of Section 72 of BOFIA 2020.
+7.9 Provision for Designated Settlement Account
+i. FIs shall obtain authodsation from the CBN for the opening and operation of designated settlement
+account of SEC’s VASPs/DA entities.
+ii. All obligations arising from transactions within the VASP5/DAs entities platform shall be settled into
+the designated settlement accounts maintained by them in the banks.
+Hi. The designated settlement accounts shall warehouse all Naira positions of individuals with the
+VASPs/DAs.
+iv. The designated settlement account, including any associated linked account for warehousing
+settlement monies, shall not be interest beadng.
+v. The details of the transactions on the VASP platform leading to settlement on the designated
+settlement account shall be accessible online, on real-Ume basis to the FIs at all times.
+vi. Credit to the designated settlement account shall be for the funding of Naira positions of persons
+on the VASP/DAs platform.
+vU. Debit from the designated settlement account shall only be in favour of the specific accounts that
+was used to fund Naira position on the VASP/DAs platform.
+vhi. Returns on transactions on the designated settlement accounts shall be rendered to the Bank
+monthly or at any frequency that the Bank may require.
+ix, The designated settlement account shall not facilitate FX positions of persons on the VASP/DAs
+platform
+x. FIs shall ensure that the SEC-licensed VASP!DA entities always maintain a minimum collateral
+equal to 150% highest net debit position into the designated settlement account (over the past 10
+days).
+xi. FIs shall not use the designated settlement account as collateral for credit.
+xU. The settlement cycle for transactions of VASPs/DAs shall be Ti-3.
+xhi. Value shall NOT be given to VASP/DAs before settlement occur or eadier than the settlement
+cycle.
+xiv. FIs shall not facilitate transfer and settlement from the FX positions of persons on the VASP/DAs
+platform to any foreign account.
+Page 7 of 11
+ified as Confidential
+xv. Transfers from the Naira position of persons on the VASP platform into their bank account shall
+not be more than twice in a quarter.
+xvL Fls shall ensure that only accounts that have completed full KYC process (Tiered accounts subject
+to exemptions are excluded) can fund or receive from positions on the VASP/DAs plafform.
+xvii. Fls/NIBSS shall not allow usage/creation of NUBAN accounts by VASPs.
+xvhi. Transactions on the VASP/DA platform shall only be in Naira.
+RISK MANAGEMENT FOR ANTI-MONEY LAUNDERING, COMBATING THE FINANCING OF
+TERRORISM AND COUNTER PROLIFERATION FINANCING (AML, CFT, AND CPF)
+8.0
+As shall establish appropriate risk management systems to determine whether a designated account
+opened under these Guidelines has been used, is being used or is likely to be used for ML, TF and PF.
+Fls shall take reasonable measures to establish the Beneficial Ownership, source of wealth and the
+source of funds of designated account under these Guidelines.
+8.1
+Customer Due Diligence (CDD)
+i.
+The appropriate time to conduct CDD by Fl shall be, but not limited to, the following cases, when:
+a. On boarding a VASPs in a new relationship;
+b. a transaction of significant value takes place;
+c.
+a customer information/documentation change substantially;
+d. there is a material change in the way that the account is being operated; or
+e. the institution becomes aware that it lacks sufficient information about an existing customer.
+ü.
+FIs shall apply EDD requirements to all designated accounts opened in accordance with these
+Guidelines on the basis of materiality and risk and continue to conduct due diligence on such
+existing relationships at appropriate times.
+8.2
+Continuous Verification, Validation of Address and Documentation
+Requirement
+Fls shall independently validate the address and documentation requirement provided under these
+Guidelines and where it is discovered to be incorrect or invalid, the account shall be placed on PostNo-Debit and the customer shall be asked to update its record, Provided that an STR shall be rendered
+to the NFIU in that regard.
+8.3
+Maintenance of Records
+i.
+FIs shall maintain all necessary records of transactions of a designated account for at least five
+years after completion of the transaction or such longer pehod as may be required by the CBN.
+Page 8 of 11
+tied as Contident,aI
+Provided that this requirement shall apply regardless of whether the account or business
+relationship is on-going or has been terminated
+The components of records of transactions to be maintained by FIs shall include the:
+a. records of customers and beneficial owners obtained through ODD measures including
+copies of records of official identification documents like passports, identity cards, dvers’
+licenses or allied documents and beneficiary’s names, addresses or other identifying
+information normally recorded by the intermediary;
+U.
+b. nature and date of the transaction;
+c. type and amount involved;
+d. type and identifying number of any account involved in the transaction; and
+e. results of any analysis including inquiries to establish the background and purpose of
+complex unusual large transactions.
+Ni.
+FIs shall ensure that all customer-transacUon records and information are available on request
+to the OBN on a timely basis, not later than 24 hours from the time of receipt of such request.
+iv.
+Records of the supporting evidence and methods used to verify identity shall be retained for a
+minimum period of five years after the account is closed or the business relationship has ended.
+8.4
+Monitoring and Reporting of Suspicious Transaction
+FIs shall:
+i. be responsible for instituting appropriate know-your customer procedure to reasonably/promptly
+identify all individuals/entities offering services covered by this regulation, in their books, and
+ensure they immediately comply with the provisions of this regulation.
+N.
+be responsible for monitoring and supervising all activities in designated account and shall be
+held responsible for misapplication of any account.
+Ni.
+have information on the volume and value of transactions canled out for each designated
+account.
+iv.
+monitor effective compliance with set limits for each designated account.
+v.
+take all other measures including onsite visits to ensure that the account is being operated strictly
+within the requirements of these Guidelines and other extant laws and regulations.
+vi.
+pay special attention to all complex, unusually large transactions or unusual patterns of
+transactions that have no visible economic or lawful purpose.
+vU,
+investigate suspicious transactions and report its findings to the NFIU immediately, in compliance
+with the relevant provisions of any law or regulations being in force.
+Page 9 ofli
+ified as Confidential
+vhi.
+Keep records of investigations of reviewed unusual transactions where the transactions were not
+reported as suspicious transactions to the NFIU.
+9.0
+CONSUMER PROTECTION MEASURES
+FIs shall:
+i. ensure that appropriate consumer protection systems against risks of fraud are established.
+U.
+provide a channel for communication of customer complaints againstdesignated account holders.
+Hi.
+establish complaints redress mechanism and ensure proper communication of this mechanism
+to the general public.
+iv.
+ensure sthct adherence to the provision of the Circular issued by the CBN (Referenced
+CPD/DIR/GEN/CIR/01/001) on the Deployment of the Consumer Complaints Management
+System (CCMS).
+10.0
+SANCTIONS
+Notwithstanding the powers of the CBN under the BOFIA 2020 and in addition to the use of remedial
+measures in these Guidelines, the CBN may take any or all of the following sanctions against a Fl, its
+board of directors, officers or staff for failure to comply with any of the requirements of these Guidelines:
+i. Prohibition from opening any further designated account;
+U. Monetary penatty not below the sum of 2,000,00O.00 against the FIs, members of its board,
+senior management, and any staff, for any infraction.
+Hi. Suspension of operating licence of a Fl;
+11.0
+AMENDMENT TO THE GUIDELINES
+These Guidelines may be amended by the CBN from time to time, n whole or in part, as it is deemed
+necessary.
+Page 10 ofli
+fled as Confidential
+12.0
+GLOSSARY OF TERMS
+AML
+BOFIA
+BVN
+—
+Corporate Affairs Commission
+—
+CBN
+Central Bank of Nigeha
+—
+CDD
+Customer Due Diligence
+—
+CFT
+Combating the Financing of Terrosm
+-
+CPF
+Countering Proliferation Financing
+-
+DAOP
+DAX
+-
+Distributed Ledger Technology
+—
+EDD
+—
+Initial Coin Offering
+—
+KYC
+ML
+Enhanced Due Diligence
+Financial Institution
+—
+ICO
+Digital Asset Offering Platform
+Digital Assets Exchange
+—
+DLT
+Banks and Other Financial Institutions Act
+Bank Verification Number
+—
+CAC
+Fl
+Anti-Money Laundering
+—
+Know Your Customer
+—
+Money Laundehng
+—
+NFIU
+—
+Nigehan Financial Intelligence Unit
+NIBSS
+Nigeria Inter-Bank Settlement System
+PF
+Proliferation Financing
+-
+SEC
+Securities and Exchange Commission
+—
+STR—
+Suspicious Transaction Report
+IF
+Terrorism Financing
+-
+VASP
+—
+Virtual Assets Service Provider
+Financial Policy and Regulations Department
+Page 11 ofil
+ified as Confidential

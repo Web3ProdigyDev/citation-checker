@@ -1,0 +1,769 @@
+ROW 4 | 2e35be6931 | perplexity | F3-NG
+CLAIM: Cassava mosaic disease (CMD), cassava brown streak disease (CBSD), cassava bacterial blight, cassava anthracnose, and root rot are the main cassava diseases in Nigeria according to IITA.
+URL: https://iita.org/cassava/
+STATUS: ok
+
+Cassava - IITA
+Skip to content
+Jobs
+Contact
+Subscribe
+Search
+ABOUT US
+Close ABOUT US
+Open ABOUT US
+About Us
+People
+Financial Reports
+Hubs & Stations
+Facilities
+Partnerships
+At a Glance
+28+ Countries – Working across sub-Saharan Africa
+50+ Years – Advancing agricultural research since 1967
+1000+ Staff – Scientists & support teams across Africa
+Key Resources
+IITA’s 2024 – 2030 Strategy
+IITA Brochure
+Learn more
+Leaders and Experts
+Board of Trustees
+Senior Management team
+Staff
+Simeon Ehui
+Director General and CGIAR Regional Director for Africa
+IITA maintains full transparency and accountability to donors and partners.
+Key Links
+Financial Statements
+IITA’s Presence in Africa
+We are in 28 Countries across 5 Regional Hubs in Africa
+Central Africa Hub
+Eastern Africa Hub
+Sahel Hub
+Southern Africa Hub
+Western Africa Hub
+Facilities
+Specialized technical, scientific, and operational services supporting IITA’s research-for-development work.
+Molecular Genetics Lab
+Food Utilization and Nutritional Lab
+Genetic Resources Center
+Fertilizer Hub
+Business Incubation Platform
+Bioscience Center
+Tissue Culture Lab
+Crop Processing
+Germplasm Health Unit
+Pathology Laboratory
+Analytical Laboratory
+Hospitality
+Working Together for Impact
+IITA collaborates with governments, donors, research institutions, universities, NGOs, and the private sector to advance agricultural innovation across Africa.
+Our Partners
+Become a Partner
+Learn more
+OUR WORK
+Close OUR WORK
+Open OUR WORK
+Our Work
+IITA collaborates with governments, donors, research institutions, universities, NGOs, and the private sector to advance agricultural innovation across Africa.
+Programs
+Biotechnology
+Breeding
+Genebank
+Seed Systems
+Farming Systems Agronomy
+Plant health
+Natural Resource Management
+Mechanization
+Foresight, Impact assessment and Scaling (FIAS)
+Gender, youth, and social inclusion (GYSI)
+Nutrition and Health (NH)
+Resilience and Climate Adaptation (RCA)
+Value-chains, Markets, and agribusiness (VCMA)
+Projects
+Active projects
+Projects dashboard
+Crops
+Banana and Plantain
+Cassava
+Cowpea
+Maize
+Soybean
+Yam
+Support Services
+Capacity Development Office
+Communication and Knowledge Management
+Data and Research Methods
+Project Management and Administration
+WHERE WE WORK
+Close WHERE WE WORK
+Open WHERE WE WORK
+Where we work
+IITA collaborates with governments, donors, research institutions, universities, NGOs, and the private sector to advance agricultural innovation across Africa.
+Central Africa
+Burundi
+Cameroon
+Central African Republic
+Democratic Republic of the Congo
+Gabon
+Rwanda
+Eastern Africa
+Ethiopia
+Kenya
+Madagascar
+Tanzania
+Uganda
+Sahel
+Burkina Faso
+Chad
+Gambia
+Niger
+Mali
+Senegal
+Sudan
+Southern Africa
+Angola
+Malawi
+Mozambique
+Zambia
+Zimbabwe
+Western Africa
+Bénin
+Côte d’ivoire
+Ghana
+Nigeria
+Sierra Leone
+Togo
+IMPACT
+Close IMPACT
+Open IMPACT
+Innovations
+Research outputs
+KNOWLEDGE
+Close KNOWLEDGE
+Open KNOWLEDGE
+Datasets
+Photos
+Publications
+Videos
+MEDIA
+Close MEDIA
+Open MEDIA
+News
+Blogs
+Events
+GET INVOLVED
+Close GET INVOLVED
+Open GET INVOLVED
+Partnership
+Support Us
+Cassava
+Overview
+Projects
+Publications
+Resources
+News
+Overview
+Projects
+Publications
+Resources
+News
+Cassava (Manihot esculenta)
+Cassava is a perennial woody shrub with an edible root, which grows in tropical and subtropical areas of the world. Cassava originated from tropical America and was first introduced into Africa in the Congo basin by the Portuguese around 1558. Today, Cassava supports the livelihood of over 300 million Africans.
+It is rich in carbohydrates, calcium, vitamins B and C, and essential minerals. However, nutrient composition differs according to variety and age of the harvested crop, and soil conditions, climate, and other environmental factors during cultivation.
+Importance
+Production
+Harvesting
+Consumption
+Disease and constraints
+IITA's research and impact
+In sub-Saharan Africa (SSA) cassava is mainly a subsistence crop grown for food by small-scale farmers who sell the surplus. It grows well in poor soils with limited labor requirements. It provides food security during conflicts when the invader cannot easily destroy or remove the crop, since it conveniently grows underground. Cassava is usually intercropped with vegetables, plantation crops (such as coconut, oil palm, and coffee), yam, sweet potato, melon, maize, rice, groundnut, or other legumes. The application of fertilizer remains limited among small-scale farmers due to the high cost and lack of availability. Roots can be harvested between 6 months and 3 years after planting.
+Apart from food, cassava is very versatile and its derivatives and starch are applicable in many types of products such as foods, confectionery, sweeteners, glues, plywood, textiles, paper, biodegradable products, monosodium glutamate, and drugs. Cassava chips and pellets are used in animal feed and alcohol production. Medium to large private farms in the major producing countries like Nigeria and Mozambique support some of these industrial uses of the crop.
+More than 291 million tons of cassava were produced worldwide in 2017, of which Africa accounted for over 60%. In 2017, Nigeria produced 59 million tons making it the world’s largest producer (approximately 20% of global production) with a 37% increase in the last decade. Nigeria exports about 3.2 million tons annually and earned a record $136 million in 2013.
+Cassava production depends on a supply of quality stem cuttings. The multiplication rate of planting materials is very low compared to grain crops, which are propagated by true seeds. In addition, cassava stem cuttings are bulky and highly perishable as they dry up within a few days.
+Over 26 million hectares of cassava were planted worldwide in 2017, with about 76% in Africa. Cassava requires less labor than other staple crops (21% less in working days as compared to maize, yam and rice). However, it requires considerable postharvest labor because the roots are highly perishable and must be processed into a storable form soon after harvest. Roots can be harvested between six months and three years after planting.
+Many varieties contain a substance called cyanogenic glucosides that can generate cyanide in the storage roots, which is toxic, if inadequately processed. Various processing methods, such as grating, sun drying, and fermenting, are used to reduce the potential to produce cyanide.
+It is estimated that 37% of dietary energy comes from cassava. The Democratic Republic of Congo is the largest consumer of cassava in SSA, followed by Nigeria.
+The major pests of cassava in SSA are the cassava-whitefly (Bemisia tabaci), cassava green mite, the variegated grasshopper, and cassava mealybug. The main diseases affecting cassava are cassava brown streak disease (CBSD), cassava mosaic disease (CMD), cassava bacterial blight, cassava anthracnose disease, and root rot. CMD alone accounted for an estimated 47% of East and Central Africa’s cassava production losses during a serious outbreak beginning in the early 1990s until 2006. CBSD has become the biggest constraint for cassava production in eastern Africa, causing annual losses in excess of USD 736 million to smallholder farmers. CBSD causes rotting of affected roots making them unfit for human consumption or industrial use. Since 2004 the disease CBSD has spread to more than 10 eastern and Central African countries, affecting food and income security. Pests, diseases, and poor cultivation practices combined can cause yield losses as high as 50% in all of Africa.
+IITA scientists have played a leading role in developing improved cassava varieties which are disease- and pest-resistant, low in potential to generate cyanide, drought-resistant, early maturing, and high yielding. Disease-resistant varieties give sustainable yields of about 50% more than local varieties. Distribution of CMD-resistant varieties in response to the CMD outbreak in East and Central Africa resulted in production levels recovering to pre-epidemic levels in less than five years. Improved cassava varieties are now used in most cassava-growing countries in SSA.
+IITA’s biological control program resulted in a 95% reduction in cassava mealybug damage and a 50% reduction in damage caused by the cassava green mite.
+Postharvest strategies include the development of effective and simple machines and tools that reduce processing time and labor, and production losses. With these machines, losses can be reduced by 50% and labor by 75%. About 20% of the cassava harvest are peels can be processed into livestock free ingredients.
+During the past three decades, IITA has trained more than 9000 researchers and technicians in ten African countries in processing and uses for high-quality cassava flour (HQCF). As a result, the private sector in Madagascar, Nigeria, Tanzania, and Uganda have begun using HQCF as a raw material for processing secondary products such as biscuits and noodles.
+Currently IITA is adapting the so-called stage gate approach within cassava breeding to make breeding more socially inclusive and demand led to further increase the impact of breeding work. An interdisciplinary team of social scientists that includes gender specialists and marketing experts, are informing breeding work on the cassava characteristics and traits that are in demand by the different users of cassava roots within the value chain: farmers, processors, marketers, and consumers of cassava products. The link between cassava food product quality and cassava varieties is a major focus.
+Featured Projects
+Enhancing Sustainable Land Management and Climate-Resilient Agri-food Systems in Cote d’Ivoire (LARACI)
+Location:
+Côte d’ivoire
+Technologies for African Agricultural Transformation Phase II
+Location:
+Benin , Cameroon , Democratic Republic of Congo , Gambia , Kenya , Malawi
+Legume-based agro ecological intensification of maize and cassava cropping systems in Sub-Saharan Africa
+Location:
+Ethiopia , Malawi , Tanzania , Zambia
+Enhancing cassava productivity and utilization for food and incomes of smallholder farmers in Rwanda
+Location:
+Rwanda
+Cassava improvement at the East African Hub
+Location:
+Kenya , Tanzania , Uganda
+Building resilient seed systems for rice, cassava, cowpea, cocoa, and fish value chains to strengthen food and economic diversification in Liberia
+Location:
+Liberia
+Learn more
+Publications
+See all
+Accelerated cassava varietal turnover in Tanzania, a direct result of cassava seed system interventions
+Learn More
+Advancements and strategies of genetic improvement in cassava (Manihot esculenta Crantz): from conventional to genomic approaches
+Learn More
+Agromorphological characterization of biofortified cassava genotypes (Manihot esculenta)
+Learn More
+CASSAVA IN ACTION
+Videos
+Watch how innovations in improved varieties and agronomy are transforming cassava production.
+Photos
+Explore field trials, farmer engagement, and breakthrough research shaping the future of cassava.
+Improved Varieties
+Explore high-yielding, disease-resistant cassava varieties developed to enhance productivity and resilience.
+Related News
+See all news
+PROSSIVA’s transition from research to reach: Scaling seed innovations for impact in Africa
+Vegetatively propagated crops (VPCs) such as cassava, yam, banana, and plantain are central to food security, livelihoods, and economic growth across Africa. Yet, limited access to quality, disease-free planting material
+Read More
+IITA breeders set their sights on a new generation of crop varieties
+Agricultural innovation is not defined by the number of varieties released, but by the tangible
+Read More
+From more cassava to more value: How IITA research is helping transform Africa’s cassava value chain
+From high-quality cassava flour to mobile processing and technology delivery through TAAT, Dr Adebayo Abass
+Read More
+IITA is an award-winning, research-for-development (R4D) organization, providing solutions to hunger, poverty, and the degradation of natural resources in Africa.
+Facebook
+X-twitter
+Youtube
+Flickr
+Linkedin
+Our Work
+Programs
+Projects
+Innovations
+Crops
+Explore
+About IITA
+Partnerships
+News
+Careers
+Alumni
+Subcribe to our Newsletter
+Get updates on research breakthroughs, field impact, and opportunities to collaborate.
+First Name
+Last Name
+Email
+SUBSCRIBE
+© 2026 IITA. All rights reserved
+IITA Website by IITA is licensed under a
+Creative Commons Attribution-NonCommercial 4.0 International License .
+INFOHUB (Intranet)
+Privacy Policy
+INFOHUB (Intranet)
+Privacy Policy
+(DMI) ET DEMANDE DE PROPOSITIONS/DEVIS
+(EOI) – PROVISION OF SERVICE
+(REOI) – PROVISION OF CONSULTANCY SERVICE
+(REOI) – PROVISION OF GAP ANALYSIS AND ASSESSMENT
+2017 Investors
+About IITA Menu Toggle
+Finance
+Alumni
+Analytical Laboratory
+Angola
+BBEST Menu Toggle
+BBEST Activities
+BBEST Blog
+BBEST Resources
+BBEST TEAM
+In The News
+Benin
+Better Diets & Nutrition
+BIMAF
+Bioinformatics
+Bioscience Center
+Board members Menu Toggle
+Anna Lartey
+Elizabeth Kariuki
+Elizabeth Nsimadala
+Enrica Porcari
+Jimmy Wilson Smith
+Marcus Olaniyi Ogunbiyi
+Mauricio Lopes
+Prof. Maduebibisi Ofo Iwe
+Richard Golding
+Roel Merckx
+Shenggen Fan
+Ylva Hillbur
+Board of Trustees Menu Toggle
+Ursula Ngozi Akanwa
+Burkina Faso
+Burundi
+Business Incubation Platform
+Cameroon
+Capacity Development Office
+Capacity Sharing
+Cassava
+Central Africa Hub
+Climate Action Menu Toggle
+Agroforestry as Climate Change Adaptation: cocoa farming in Ghana
+Climate resilient varieties – Breeding
+Digital Climate Advisory Services
+Regenerative agriculture and carbon sequestration
+RESILISENSE: SATELLITE-OBSERVABLE INDICATORS OF SMALLHOLDER RESILIENCE
+Climate Change and Soil Health — The Hidden Nematode Threat
+Communication and Knowledge Management Menu Toggle
+Open access
+Contact Us
+Cookie Policy
+Côte d’Ivoire
+Cowpea
+Crop Processing
+Crops Menu Toggle
+Banana and Plantain
+Data and Resaerch Methods
+Data and Research Methods
+Democratic Republic of Congo – DRC
+Digital Heritage and Archive submission form
+Digital Transformation
+Eastern Africa Hub
+Ethics and Whistleblowing
+Ethiopia
+Events
+Facilities
+Farming Systems Agronomy Program
+Fertilizer Hub
+Field Research
+Food Frontiers & Security
+Food Utilization and Nutritional Lab
+From Improved Varieties to Market Impact: IITA’s Cassava Success Story
+Gabon
+Gambia
+Gender Research at IITA
+Gender, Equity & Inclusion
+Genebank
+Germplasm Health Unit Menu Toggle
+Germplasm Dashboard
+Germplasm request
+Ghana
+Great Lakes Accelerated Innovation Delivery Initiative Rapid Delivery Hub
+Homepage
+Hospitality
+IITA AT 60
+IITA at 60 Zambia Menu Toggle
+EXPRESSION OF INTEREST
+IITA partners with Pairwise Plants Services Inc. for innovative agricultural solutions for smallholder farmers in Africa
+Kenya
+Madagascar
+Maize
+Malawi
+Mali
+MELIA
+Molecular Genetics Lab
+Monitoring, Evaluation and Learning Menu Toggle
+ME&L Strategy
+Mozambique
+Multifunctional Landscapes
+Niger
+Nigeria
+Partnership
+Pathology Laboratory
+Policy Innovations
+Privacy Policy
+Product Development Menu Toggle
+Digital Agriculture Technologies
+GAP Technologies
+Nutrition Technologies
+SoilHealth Technologies
+Transformation Technologies
+Programs Menu Toggle
+Breeding
+Banana and Plantain Breeding Program
+Cowpea Breeding Program
+Maize improvement Program
+Soybean Breeding Program
+Yam Improvement Program
+Cassava Breeding Program
+Foresight, Impact Assessment, and Scaling (FIAS)
+Natural Resources Management (NRM)
+Plant health
+Value Chains, Markets, and Agribusiness (VCMA)
+Project Dashboard
+Project Management and Administration
+REQUEST FOR EXPRESSION OF INTEREST (REOI) – PROVISION OF CONSULTANCY SERVICE
+REQUEST FOR EXPRESSION OF INTEREST (REOI) AND REQUEST FOR PROPOSAL
+REQUEST FOR EXPRESSION OF INTEREST(REOI) – PROVISION OF ANNUAL SERVICE MAINTENANCE FOR YINGHE 3.2M ECO SOLVENT LARGE FORMAT PRINTER
+Research Menu Toggle
+Our genetic resources
+Genebank documents
+Our priorities
+Our research themes
+Enhancing nutritional value
+Improving crops
+Improving livelihoods
+Making healthy crops
+Managing natural resources
+Research outputs
+Rwanda
+Sahel Africa Hub
+Sample Page
+Sample Page
+Scaling for Impact
+Seed System Technologies
+Senegal
+Senior Management Team
+Sierra Leone
+Southern Africa Hub
+Soybean
+Sudan
+Suppliers registration
+Support Us
+Sustainable Animal & Aquatic Foods
+Sustainable Farming
+TANZANIA
+Technologies
+Test
+THE AID-I GLR JOURNEY
+Tissue Culture Lab
+TOGO
+Training & Capacity Building
+Uganda
+Weather
+Weather Station
+Western Africa Hub
+Yam
+Zambia
+Zimbabwe
+(DMI) ET DEMANDE DE PROPOSITIONS/DEVIS
+(EOI) – PROVISION OF SERVICE
+(REOI) – PROVISION OF CONSULTANCY SERVICE
+(REOI) – PROVISION OF GAP ANALYSIS AND ASSESSMENT
+2017 Investors
+About IITA Menu Toggle
+Finance
+Alumni
+Analytical Laboratory
+Angola
+BBEST Menu Toggle
+BBEST Activities
+BBEST Blog
+BBEST Resources
+BBEST TEAM
+In The News
+Benin
+Better Diets & Nutrition
+BIMAF
+Bioinformatics
+Bioscience Center
+Board members Menu Toggle
+Anna Lartey
+Elizabeth Kariuki
+Elizabeth Nsimadala
+Enrica Porcari
+Jimmy Wilson Smith
+Marcus Olaniyi Ogunbiyi
+Mauricio Lopes
+Prof. Maduebibisi Ofo Iwe
+Richard Golding
+Roel Merckx
+Shenggen Fan
+Ylva Hillbur
+Board of Trustees Menu Toggle
+Ursula Ngozi Akanwa
+Burkina Faso
+Burundi
+Business Incubation Platform
+Cameroon
+Capacity Development Office
+Capacity Sharing
+Cassava
+Central Africa Hub
+Climate Action Menu Toggle
+Agroforestry as Climate Change Adaptation: cocoa farming in Ghana
+Climate resilient varieties – Breeding
+Digital Climate Advisory Services
+Regenerative agriculture and carbon sequestration
+RESILISENSE: SATELLITE-OBSERVABLE INDICATORS OF SMALLHOLDER RESILIENCE
+Climate Change and Soil Health — The Hidden Nematode Threat
+Communication and Knowledge Management Menu Toggle
+Open access
+Contact Us
+Cookie Policy
+Côte d’Ivoire
+Cowpea
+Crop Processing
+Crops Menu Toggle
+Banana and Plantain
+Data and Resaerch Methods
+Data and Research Methods
+Democratic Republic of Congo – DRC
+Digital Heritage and Archive submission form
+Digital Transformation
+Eastern Africa Hub
+Ethics and Whistleblowing
+Ethiopia
+Events
+Facilities
+Farming Systems Agronomy Program
+Fertilizer Hub
+Field Research
+Food Frontiers & Security
+Food Utilization and Nutritional Lab
+From Improved Varieties to Market Impact: IITA’s Cassava Success Story
+Gabon
+Gambia
+Gender Research at IITA
+Gender, Equity & Inclusion
+Genebank
+Germplasm Health Unit Menu Toggle
+Germplasm Dashboard
+Germplasm request
+Ghana
+Great Lakes Accelerated Innovation Delivery Initiative Rapid Delivery Hub
+Homepage
+Hospitality
+IITA AT 60
+IITA at 60 Zambia Menu Toggle
+EXPRESSION OF INTEREST
+IITA partners with Pairwise Plants Services Inc. for innovative agricultural solutions for smallholder farmers in Africa
+Kenya
+Madagascar
+Maize
+Malawi
+Mali
+MELIA
+Molecular Genetics Lab
+Monitoring, Evaluation and Learning Menu Toggle
+ME&L Strategy
+Mozambique
+Multifunctional Landscapes
+Niger
+Nigeria
+Partnership
+Pathology Laboratory
+Policy Innovations
+Privacy Policy
+Product Development Menu Toggle
+Digital Agriculture Technologies
+GAP Technologies
+Nutrition Technologies
+SoilHealth Technologies
+Transformation Technologies
+Programs Menu Toggle
+Breeding
+Banana and Plantain Breeding Program
+Cowpea Breeding Program
+Maize improvement Program
+Soybean Breeding Program
+Yam Improvement Program
+Cassava Breeding Program
+Foresight, Impact Assessment, and Scaling (FIAS)
+Natural Resources Management (NRM)
+Plant health
+Value Chains, Markets, and Agribusiness (VCMA)
+Project Dashboard
+Project Management and Administration
+REQUEST FOR EXPRESSION OF INTEREST (REOI) – PROVISION OF CONSULTANCY SERVICE
+REQUEST FOR EXPRESSION OF INTEREST (REOI) AND REQUEST FOR PROPOSAL
+REQUEST FOR EXPRESSION OF INTEREST(REOI) – PROVISION OF ANNUAL SERVICE MAINTENANCE FOR YINGHE 3.2M ECO SOLVENT LARGE FORMAT PRINTER
+Research Menu Toggle
+Our genetic resources
+Genebank documents
+Our priorities
+Our research themes
+Enhancing nutritional value
+Improving crops
+Improving livelihoods
+Making healthy crops
+Managing natural resources
+Research outputs
+Rwanda
+Sahel Africa Hub
+Sample Page
+Sample Page
+Scaling for Impact
+Seed System Technologies
+Senegal
+Senior Management Team
+Sierra Leone
+Southern Africa Hub
+Soybean
+Sudan
+Suppliers registration
+Support Us
+Sustainable Animal & Aquatic Foods
+Sustainable Farming
+TANZANIA
+Technologies
+Test
+THE AID-I GLR JOURNEY
+Tissue Culture Lab
+TOGO
+Training & Capacity Building
+Uganda
+Weather
+Weather Station
+Western Africa Hub
+Yam
+Zambia
+Zimbabwe
+Scroll to Top
+Abolore Bello
+Bello Abdulrazaq Abolore is a Senior Research Supervisor at the Cassava Breeding Unit of the International Institute of Tropical Agriculture (IITA), Ibadan. Specialising in crop varietal development using inclusive, informed gender and social participatory breeding approach. Abolore holds a Master’s degree in Crop Science and a B.Tech (Hons) in Agronomy. Abolore is a Fellow of Gender Responsive Researchers Equipped with Agricultural Transformation (GREAT) and has attended the Plant Breeding 2 Fight Hunger (PB2FH) Training Program at Michigan State University, USA and Quantitative Methods in Plant Breeding at the National Institute of Agricultural Botany (NIAB), United Kingdom to enhance his breeding skills. He is currently completing the Post Graduate Program in Data Science and Business Analytics at the University of Texas McCombs School of Business in Collaboration with Great Learning. Abolore current roles include monitoring and evaluation of promising cassava genotypes in pre-released and On-farm trials to present for release by the Nigeria Crop Variety Release Committee. He also engages in multi-disciplinary research on social and transformative gender studies to improve the decision-making process by value chain actors and stakeholders. Abolore has in-depth knowledge to conduct consumer testing, participatory processing and varietal selection to elicit trait preferences preferred by crop users to inform breeders.
+He works with IITA breeders, and gender/social scientists on the implementation of CGIAR Accelerated Breeding Initiatives and Genetic Programs, RTB Breeding Projects, Gender Initiatives Program and 1000farms Project.
+Recent publications
+de Sousa, K., van Etten, J., Manners, R. Bello, A ., Teeken, B., Olaosebikan, O., et al. 2024. The tricot approach: an agile framework for decentralized on-farm testing supported by citizen science. A retrospective. Agron. Sustain. Dev. 44, 8. https://doi.org/10.1007/s13593-023-00937-1
+Bello, A. A., Agbona, A., Olaosebikan, O., Edughaen, G., Dufour, D., Bouniol, A., Iluebbey, P., Ndjouenkeu, R.*, Rabbi, I. Y., Teeken, B. 2023. Genetic and environmental effects on processing productivity and food product yield: drudgery of women’s work in: Journal of the Science of Food and Agriculture, pages 1 – 32, ISSN 0022-5142, 5
+Olaosebikan, O .; Bello, A.; Utoblo, O.; Okoye, B.; Olutegbe, N.; Garner, E.; Teeken, B.; Bryan, E.; Forsythe, L.; Cole, S.; Madu, T. 2023. Stressors and Resilience within the Cassava Value Chain in Nigeria: Preferred Cassava Variety Traits and Response Strategies of Men and Women to Inform Breeding. Sustainability 15, 7837. https://doi.org/10.3390/su15107837
+Olaosebikan, O., Bello, A. A., de Sousa, K., Ndjouenkeu, R., Adesokan, M., Alamu, E. O., Agbona, A., van Etten, J., Kegah, F. N.*, Dufour, D., Bouniol, A., Teeken, B. 2023. Consumer acceptability of cassava gari-eba food products across cultural and environmental settings using the triadic comparison of technologies approach (tricot) in: Journal of the Science of Food and Agriculture,
+Teeken, B., Olaosebikan, O., Bello, A. A., Madu, T.*, Cole, S. M. 2023. Qualitative assessment on the positionality and preferences of dyads in relation to cassava-related activities: working with tricot trial citizen scientists https://hdl.handle.net/10568/138326 Type: Manual
+Bouniol, A., Ceballos, H., Bello, A. A., Teeken, B., Olaosebikan, O., Owoade, D., Agbona, A., Fotso Kuate, A., Madu, T.*, Okoye, B.*, Ofoeze, M.*, Nwafor, S.*, Onyemauwa, N.*, Adinsi, L.*, Forsythe, L., Dufour, D. 2023. Varietal impact on women’s labour, workload and related drudgery in processing root, tuber and banana crops: focus on cassava in sub-Saharan Africa in: Journal of the Science of Food and Agriculture, pages 1 – 25, ISSN 0022-5142,
+Cavicchioli, M., Zimbiti, T., Teeken, B., Nwanze, D.O., Liani, M., Parkes, E. & Bello, A . 2023. IITA-Gender Responsive Breeding Training Report. Genetic Resources Center, IITA-HQ, Ibadan, 21-23 September, 2022. Ibadan, Nigeria: IITA, (34 p.). https://hdl.handle.net/10568/131368
+Agbona, A. Peteti P., Teeken B., Olaosebikan O. , Bello, A. A., Parkes, E., Rabbi, I. Y., Mueller, L., Egesi, C., Kulakow, P. 2022. Data Management in Multi-disciplinary African RTB Crop Breeding Programs. In: Williamson, H.F., Leonelli, S. (eds) Towards Responsible Plant Data Linkage: Data Challenges for Agricultural Research and Development. Springer, Cham. https://doi.org/10.1007/978-3-031-13276-6_5
+Teeken, B., Garner, E., Agbona, A., Balogun, I., Olaosebikan, O., Bello, A., Madu, T., Okoye, B., Egesi, C., Kulakow, P. and Tufan, H.A. 2021. Beyond “Women’s Traits”: Exploring How Gender, Social Difference, and Household Characteristics Influence Trait Preferences. Frontiers Sustainable Food Systems 5:740926. https://doi.org/10.3389/fsufs.2021.740926
+Teeken, B., Agbona, A., Bello, A ., Olaosebikan, O., Alamu, E., Adesokan, M., Awoyale, W., Madu, T., Okoye, B., Chijioke, U., Owoade, D., Okoro, M., Bouniol, A., Dufour, D., Hershey, C., Rabbi, I., Maziya‐Dixon, B., Egesi, C., Tufan, H. and Kulakow, P. (020. Understanding cassava varietal preferences through pairwise ranking of gari‐eba and fufu prepared by local farmer–processors. Int J Food Sci Technol. https://doi.org/10.1111/ijfs.14862
+Bela Teeken, Olamide Olaosebikan , Ireti Balogun, Benjamin Okoye, Tessy Madu, Steven Cole, Abolore Bello , Elizabeth Parkes. (2020). Piloting the G+ customer and product profile tools for gender-responsive cassava breeding in Nigeria. Nigeria: International Institute of Tropical Agriculture (IITA). https://hdl.handle.net/20.500.11766/13000
+Fortunatha Petro Mollel
+Ms. Fortunatha Petro Mollel is a seasoned Gender Equality and Social Inclusion (GESI) professional who joined International Institute of Tropical Agriculture (IITA) in May 2026 as a Gender Research Associate, based in Dar es Salaam, Tanzania. She is working under the Muhogo Bora (Better Cassava for All) project mainly focused on supporting the design and implementation of gender transformative interventions towards fostering an enabling social, economic, institutional environment that supports the engagement of women and youth to successfully thrive as Cassava Seed Entrepreneurs in Tanzania. She holds a Master of Arts Degree in Development Management from University of Dar es Salaam; Bachelor of Arts Degree in Gender and Development, and a Diploma in Gender and Development both from Mwalimu Nyerere Memorial Academy, Tanzania. She is also a trained associate in project management (CAPM).
+Ms. Mollel is committed to advancing inclusive, evidence-based, and community-driven approaches that promote equity, dignity, and sustainable change. She has nine years of progressive experience in designing, implementing, and strengthening gender-transformative and inclusive development programmes across Tanzania. Her technical expertise includes women’s and youth economic empowerment, Results-Based Financing (RBF), safeguarding, gender-based violence (GBV) prevention, behaviour change campaign, and the operationalization of the Leave No One Behind (LNOB) principle across agriculture, education, livelihoods, renewable energy, climate resilience, and health sectors. She is also experienced with integrating project management skills into income-generating activities, inclusive entrepreneurship development, and facilitating access to startup kits and economic opportunities for women and youth.
+Prior to joining IITA, Ms. Mollel worked with leading international development organizations such as CARE International, SNV Tanzania, TechnoServe, and Heifer International, where she led and supported the development of GESI strategies, Gender Action Plans, gender-sensitive value chain analyses, and social norms transformation initiatives aimed at promoting equitable participation and sustainable development outcomes for marginalized populations, including women, youth, persons with disabilities, young mothers, and survivors of gender-based violence.
+Helio Gurué
+Hélio Gurué is a Gender Equality and Social Inclusion Officer at the International Institute of Agriculture (IITA), working on the Accelerated Innovation Delivery Initiative (AID-I) based in Nampula, Mozambique. He holds a Bachelor of Arts Degree in Childhood Development and Education from the Psychology Department of the Faculty of Education at Eduardo Mondlane University in Mozambique. Mr. Gurué has four years of cumulative experience working in the development sector the context of emergencies. His scope of work mainly focused on Humanitarian Aid to Internally Displaced People in Cabo Delgado, where he worked as a Gender and Child Protection Officer in Emergencies (SOS Children’s Village Mozambique); Child Protection Assistant with Family Health International (FHI) 360; Child Protection Coordinator with Save the Children International; and Protection Assistant against Sexual Exploitation and Abuse with UN-Migration. Prior to joining IITA, he worked as a Gender Officer with Plan International based in Nampula, Mozambique. He is currently pursuing his Master’s Degree in Gender and Development at Faculty of Arts and Social Sciences, Eduardo Mondlane University, Mozambique.
+Adeola Alabi
+Adeola Alabi , a Nigerian, is a Gender Research Associate with the International Institute of Tropical Agriculture (IITA). He is based in Ibadan, Nigeria. His research efforts is focused at addressing the most important social bottlenecks constraining the development of VPC seed systems in target countries on Program for Seed System Innovations for Vegetatively-propagated crops in Africa (PROSSIVA).
+He has a Master of Science degree in Sociology from the University of Ibadan, Nigeria in 2017. Upon completion of his masters program, he volunteered as a Junior Research Assistant with the Department of Social Policy and Governance with the Nigerian Institute of Social and Economic Research, Ibadan. Before joining IITA, Adeola has functioned as a Learning and Development Manager with a private consultancy firm, where he had the privilege of working on different World Bank Assisted social investment projects including Business Advisory Service Provision for Nigeria for Women Project; Conduct of Disability Assessment for National Social Safety Nets Projects; Partial Data Update, Validation and Reallocation of Geo-Coordinates for Poor and Vulnerable Households in the Social Registry; and Data Structuring, Field Validation and Enumeration on Output-Based Disbursement among others. At another time, he has functioned as Social Safeguard Expert on a World Bank Assisted Flood Management Project titled “Second Pool of Long-Term Investments for Flood Control in Ibadan City of Oyo State”.
+Publication (Journal Article)
+ADEGOKE, O.O., ALABI, A.I ., and JEGEDE, A.S. (2018). Cultural Conception of “Eniyan L’aso Mi” and the changing roles of family in Social Production of Care for the Elderly in Yoruba Setting. The Nigerian Journal of Sociology and Anthropology (NASA). Vol. 16, No. 2,2018.
+Faustina Obeng Adomaa
+Faustina Obeng Adomaa is a Consultant for the International Institute of Tropical Agriculture, Ghana. She is the Gender Equality and Social Inclusion Lead for the Accelerating Impacts of CGAIR Climate Research for Africa (AICCRA), Ghana cluster. She obtained her PhD in Social Science (inclusive value chains) from Wageningen University & Research. She also holds an MPhil and BA in Geography and Resource Development, from the University of Ghana with specialization in the Geography of Gender. Her research is at the intersection of broad processes of agriculture value chain development and their ramifications on agrarian gender, land, and labour relations. She has expertise in unpacking rules in use, including norms and conventions, across multiple domains and designing agriculture interventions to transform these rules to foster inclusivity. Her latest research integrates critical agrarian studies perspectives into value chain research. In her current work, she integrates gender-transformative perspectives into an instrument mix for inclusive climate smart agriculture.
+Recent publications
+Torvikey, G. D., Dalaa, M. A., Obeng Adomaa, F. , Saeed A., Amoah, A.I., Kofituo, R. K., Tetteh, A. & Asare, R. (2024). Making climate smart cocoa inclusive: Towards a framework for gender transformation. Southern African Review of Sociology . Forthcoming.
+Nguyen-Perperidis E., Obeng Adomaa F ., Nguyen P.M & Kyeretwie B.N.S. (2023). Advancing a Gender-Responsive Delivery Model for Mitigating Climate Impacts in Ghana’s Cocoa Landscape. FARA Research Report Vol 7(19):196-213. https://www.researchgate.net/publication/370341773_Advancing_a_Gender-Responsive_Delivery_Model_for_Mitigating_Climate_Impacts_in_Ghana’s_Cocoa_Landscape
+Obeng Adomaa, F. (2022). Improving Rural Women’s Access to Productive Resources: Are the Low Hanging Fruits Too Low to Make a Difference? Feminist Africa 3 (2) 99-108 https://feministafrica.net/wp-content/uploads/2022/11/06.Feminist-AfricaNovember-2022_Volume-3-Issue-2_Revisiting-Gender-in-Rural-Livelihoods-and-Development-Intervention_Standpoint.pdf
+Obeng Adomaa, F., Vellema, S. & Slingerland, M. (2022). Justice and Inclusiveness: The Reconfiguration of Global–Local Relationships in Sustainability Initiatives in Ghana’s Cocoa Sector. Journal of Agriculture and Environmental Ethics 35, 22 https://doi.org/10.1007/s10806-022-09895-2
+Chiputwa B, Obeng Adomaa F , Ihli JH, Rusinamhodzi L. (2021). Gender equality as a pathway to sustainable development of cocoa and coffee value chains in East and West Africa. In: Minang PA, Duguma LA, van Noordwijk M, eds. 2021. Tree commodities and resilient green economies in Africa. Nairobi, Kenya: World Agroforestry (ICRAF). https://worldagroforestry.org/publication-chapter/gender-equality-pathway-sustainable-development-cocoa-and-coffee-value-chains?pid=115886
+Obeng Adomaa. F, & Apatinga G. A. (2019). Women’s economic empowerment in the midst of precarious Export processing zone employment: Evidence from Ghana. Labour, Capital and Society. 49 :1 (2019) http://www.lcs-tcs.com/PDFs/49_1/49_1%20-%20Adomaa%20&%20Apatiga.pdf
+Obeng Adomaa, F. Wrigley-Asante, C. & Teye J. K (2015). Working conditions in Ghana’s Export Processing Zone and implications on women’s empowerment. Work Organisation, Labour and Globalisation. 9 (2) 64-78 https://ucl.scienceopen.com/document_file/6520b116-3e6e-4ba7-b517-99a33fc2bb57/ScienceOpen/workorgalaboglob.9.2.0064.pdf
+Olajumoke Adeyeye
+Olajumoke Adeyeye , a Nigerian, is a Postdoctoral Fellow (Gender Research) with the International Institute of Tropical Agriculture (IITA). She is based in Ibadan, Nigeria. Her research focus is on micro-level analysis of multidimensional empowerment, gender, and youth empowerment, especially in agriculture and rural livelihoods.
+She has a doctoral degree in Agricultural Extension and Rural Development from the Federal University of Agriculture, Abeokuta, Nigeria in 2018. Before taking up the Postdoctoral position, Olajumoke worked as a Senior Research Fellow at the Centre for Gender and Social Policy Studies, Obafemi Awolowo University, Ile-Ife, Nigeria where her responsibility includes teaching, research, and advocacy on gender, development, and social policy issues. As a Postdoctoral Fellow (Gender Research) at IITA, Olajumoke coordinates the research activities of the CGIAR Gender Equality (HER+) Initiative Work Package 1 (TRANSFORM: Gender transformative approaches – GTAs) and Work Package 3 (PROTECT: Gender responsive Social Protection) in Nigeria and Mali respectively.
+Olajumoke has vast experience in conducting research and has led and worked with multidisciplinary teams on projects funded by IDRC, BMGF, etc. in different contexts across Africa: Nigeria, Ghana, and Tanzania. She has hands-on experience in gender analysis, mainstreaming, and integration; gender norms and gender transformative approaches, gender policy design, implementation, and review.
+She is a recipient of different fellowships and grants including the African Women in Agriculture Research and Development (AWARD) Fellowship (2011), the INASP AuthorAid Gender Workshop Grant (2015), and the IITA Graduate Research Fellowship (2016). She has published in reputable academic outlets as well as attended and facilitated conferences, seminars, and webinars, locally and internationally.
+Publications
+Journal Articles
+Ayansina Ayanlade, Isaac A. Oluwatimilehin, Oluwatoyin S. Ayanlade, Olajumoke Adeyeye & Sa’adatu Abatemi-Usman (2023). Gendered vulnerabilities to climate change and farmers’ adaptation responses in Kwara and Nassarawa States, Nigeria. Humanities and social sciences communications, 10 (1)1-15
+Abraham Akyala, Ayansina Ayanlade, Olajumoke. Adeyeye, and Isaac Ayo Oluwatimilehin (2023). Gender-responsive approaches to rapid climate warming among smallholder farmers. Current Research in Environmental Sustainability, https://doi.org/10.1016/j.crsust.2023.100219
+Olofinyehun, A., Adeyeye, J., Egbetokun, A., Olomu, M., Oluwadare, J., Sanni, M., & Orisadare, M. (2023). Pooled Longitudinal Dataset on the Assessment of an Apprenticeship-Based Entrepreneurship Intervention in Nigeria. Research Data Journal for the Humanities and Social Sciences, 8(1): 1- 48
+Adeyeye, O., Orisadare, M.A., Atijosan, A.B., and Olajide, O.O.C. (2022) Gender-Inclusive development in rural settings: Reframing the issues in African context. In L. Amusan (Ed), Food Security and Food Sovereignty Challenges in Africa. Ethics Press
+Adeyeye, O., Fabusoro, E., Sodiya, C. I., & Fapojuwo, O. E. (2021). Gender differences in time-poverty among rural households in Southwest Nigeria. Journal of Agriculture and Rural Development in the Tropics and Subtropics, 122 (2) 193-205. https://doi.org/10.17170/kobra-202107134323
+Adeyeye, O . (2021). Bridging the gender gap in empowerment of rural households: is technology the solution? Development in Practice , https://doi.org/10.1080/09614524.2021.1911937
+Adeyeye O., Oluwatope O.B., Ilevbare E. and Oyeniran O (2019). Gender, time poverty and health outcome among rural households in Southwest Nigeria. Gender and Behaviour, 17(2), 13014 – 13117
+Adeyeye, O., Njuki, J. and Miruka, M. (2018). Does women’s agency influence agricultural technology adoption? Food Chain, 7(1), 1 – 17.
+Policy Briefs
+Seymour, G., Cole, S., Costenbader, E., Mwakanyamale, D., Adeyeye, O., Feleke, S., Ferguson, N., Heckert, J., Msita, S., Litvin, K. and Johnson, T.P. (2023). Measuring gender and social norms in agrifood systems: Evidence from Nigeria and Tanzania. Nairobi, Kenya: Gender Equality Initiative. https://hdl.handle.net/10568/135665
+Adeyeye, O. and Fischer, G. (2023). Exploring links between social protection, gender, and climate resilience in the Sahel region. Nairobi, Kenya. Gender Equality Initiative. https://hdl.handle.net/10568/136045
+Cole, S., Adeyeye, O. , Msita, S., Mwakanyamale, D., & Liani, M. (2023). How to integrate gender transformative approaches into social protection in agrifood systems. Policy Brief. Gender Equality Initiative. https://hdl.handle.net/10568/135167
+Thomas de Hoop, Jumoke Adeyeye , Osasuyi Dirisu, Akinwumi Akinola, Aline Meysonnat, Garima Siwach and Leigh Anderson (2021). Taking stock of the evidence on women’s groups in Nigeria. Evidence Consortium on Women’s Groups (ECWG).
+Msita, Sarah
+Sarah Msita is a Gender Research Assistant at the International Institute of Agriculture (IITA) based in Tanzania. She began her journey with IITA in 2020 as a consultant, where she contributed to the implementation of the BEST Cassava Project, specifically focusing on the advocacy and mainstreaming component. During her tenure, she played a significant role in the study titled “Assessing gender inequalities in access to and benefits derived from the cassava seed system in Tanzania.”
+Sarah holds a Master of Arts degree in Project Management and a Bachelor of Arts degree in Sociology, both obtained from the University of Dar-es-Salaam. Her educational background and professional experience reflect her commitment to addressing gender disparities and promoting equality, particularly within the agricultural sector.
+She is part of the team that implements Work Package 1 of the One CGIAR HER+ Initiative, in Tanzania which aims to achieve climate resilience by strengthening gender equality and social inclusion, through gender transformative approaches. Passionate about effecting positive change through research, Sarah is dedicated to leveraging her expertise at the intersection of gender and agriculture to drive impactful outcomes.
+Publications
+Seymour, G., Cole, S., Costenbader, E., Mwakanyamale, D., Adeyeye, O., Feleke, S., Ferguson, N., Heckert, J., Msita, S ., Litvin, K. and Johnson, T.P. (2023). Measuring gender and social norms in agrifood systems: Evidence from Nigeria and Tanzania. Nairobi, Kenya: Gender Equality Initiative. https://hdl.handle.net/10568/135665
+Cole, S., Adeyeye, O., Msita, S ., Mwakanyamale, D., & Liani, M. (2023). How to integrate gender transformative approaches into social protection in agrifood systems. Policy Brief. Gender Equality Initiative. https://hdl.handle.net/10568/135167
+Kitalyi, A., Mjachakwe, E., Jeremiah, A., Alessandra, G., Cole, S.M., Adeyeye, O., Mwakanyamale, D. and Msita, S . 2023. Stakeholder Workshop on Social and Gender Norms in the Cassava, Chicken, and Fish Value Chains in Tanzania. CGIAR Gender Equality Initiative. https://hdl.handle.net/10568/132812
+Achandi, E., Bullock R., Galie, A., Jeremiah, A., Msita, S ., Mwakanyamale, D. and Obuolo, E. 2023. Normative constraints and opportunities for women’s economic resilience to climate change in chicken, cassava and fish value chains of selected sites in Tanzania. Nairobi, Kenya: CGIAR Gender Equality Initiative. https://cgspace.cgiar.org/handle/10568/134933
+Rashida Chantima Ziblila
+Rashida Chantima Ziblila is a Gender Specialist with International Institute for Tropical Agriculture (IITA) for the SI-MFS initiative based in Tamale-Ghana. Ms. Ziblila has an Mhil degree in Innovation Communication (2019) and a BA degree in Development Communication (2015), both obtained from the University for Development Studies (UDS), Tamale Ghana.
+Rashida has about seven years work and research experience from her own studies and other related studies in the area of Agricultural Research for Development (AR4D) in transdisciplinary research spaces with a focus on gender.
+She has interest in integrating gender transformative tools into projects that are critical to enhancing the well-being and inclusive growth of all especially women.
+Publications
+Ziblila, R.C., M. Lelea, J.A. Ayelazuno, E. Mumini, and B. Kaufmann. 2019. Rural Women’s Access to Land and Household Food Security: Implications of Agricultural Intensification in Ghana. Tropentag, Kassel, Germany.
+Konlan, L.M., R.C. Ziblila, M.A. Lelea and B. Kaufmann. 2019. Entrepreneurial Potentials of Rural Women’s Groups to Process Underutilised Species in Northern Ghana. Tropentag, Kassel, Germany.
+M.A. Lelea., L.M. Konlan, R.C. Ziblila L.E. Thiele, A. Amo-Aidoo, B. Kaufmann. 2022. Strategies to Promote Sustainable Development:The Gendered Importance of Addressing Diminishing African Locust Bean ( parkia biglobosa ) Resources in Northern Ghana’s Agro-ecological Landscape.
+Mwakanyamale, Devis
+Devis Mwakanyamale is a Senior Research Associate at the International Institute of Tropical Agriculture (IITA). His training background is in agricultural economics, but he is currently pursuing a Ph.D. in Development Studies with a focus on gender at the University of Dar es Salaam. Devis earned a Master of Science in Agricultural Economics from Sokoine University of Agriculture and a Bachelor of Science in Agricultural Economics from the same university. As part of a team, Devis contributed to setting up a transdisciplinary process that aimed at developing a mixed-methods research tool for improving the measurement and understanding of intrahousehold decision-making. Presently, he is actively involved in coordinating activities for the One CGIAR Gender Equality (HER+) Initiative for Tanzania. The Initiative seeks to transform agrifood systems by addressing structural gender inequalities, such as harmful social and gender norms.
+Journal article
+Liani M.L., Cole S.M., Mwakanyamale D.F ., Baumung L., Saleh N, Webber A., Tufan H.A. and Kapinga R. (2023). Uneven ground? Drivers of intersectional gender inequalities in cassava seed entrepreneurship in Tanzania. Frontiers in Sustainable Food Systems, 7: 1155769, 1-15. https://doi.org/10.3389/fsufs.2023.1155769
+Working papers, published reports, blogs, and policy briefs
+Cole, S., Ferguson, N., Heckert, J., Mwakanyamale, D., Seymour, G., Feleke, S., Fischer, G., John, I., Lija, Z., Nyaa, M., and Zacharia, H. (2023). How do couples in rural Tanzania make decisions? Findings from a novel mixed-methods approach for understanding intrahousehold decision making. CGIAR GENDER Impact Platform Working Paper #016. Nairobi, Kenya: CGIAR GENDER Impact Platform. https://hdl.handle.net/10568/135722
+Greg Seymour, Steve Cole, Elizabeth Costenbader, Devis Mwakanyamale , Olajumoke Adeyeye, Shiferaw Feleke, Nathaniel Ferguson, Jessica Heckert, Sarah Msita, Kate Litvin, and Tina Phillips Johnson. (2023). Measuring gender and social norms in agrifood systems: Evidence from Nigeria and Tanzania. Brief. Nairobi, Kenya: Gender Equality Initiative. https://hdl.handle.net/10568/135665
+Achandi, E., Bullock R., Galie, A., Jeremiah, A., Msita, S., Mwakanyamale, D . and Obuolo, E. 2023. Normative constraints and opportunities for women’s economic resilience to climate change in chicken, cassava and fish value chains of selected sites in Tanzania. Nairobi, Kenya: CGIAR Gender Equality Initiative. https://cgspace.cgiar.org/handle/10568/134933
+Cole, S., Adeyeye, O., Msita, S., Mwakanyamale, D., & Liani, M. (2023). How to integrate gender transformative approaches into social protection in agrifood systems. Policy Brief . Gender Equality Initiative. https://hdl.handle.net/10568/135167
+Mwakanyamale, D., Cole, S., Seymour, G. and Heckert, J. (2023, February 21). Better understanding of intra-household decision-making with a locally informed mixed-methods research tool. Engendering Data (Blog) .
+https://gender.cgiar.org/news/better-understanding-intra-household-decision-making-locally-informed-mixed-methods-research
+Mwakanyamale, D ., Cole, S., Heckert, J., John, I., Fischer, G., Seymour, G. and Feleke, S. (2022). A process guide for the development of a mixed-methods research tool for measuring and understanding intra-household decision-making https://ebrary.ifpri.org/utils/getfile/collection/p15738coll2/id/136594/filename/136801.pdf
+Cole, S., Mwakanyamale, D ., Ssendi, L. & Elias, M. (2021). A dyadic interview guide to explore intra-household decision-making. Ibadan, Nigeria: IITA, (45p.)
+https://doi.org/10.25502/jgdq-pg69/p
+Mwakanyamale, D.F ., Baumung, L., Cole, S.M., Webber, A., Saleh, N. & Kapinga, R. (2021). Gender barriers and success factors that shape women’s involvement in and benefits from cassava seed production businesses in Tanzania. Ibadan: IITA, (27p.)
+https://doi.org/10.25502/376c-gh81
+Cole, Njuguna, C., and Mwakanyamale , D. (2021, February 26). Interviewing wives and husbands together. En g endering Data (Blog). https://pim.cgiar.org/2021/02/26/interviewing-wives-and-husbands-together/
+Liani, Millicent
+Millicent Liani is a Post-Doctoral Gender Research Fellow with the International Institute of Tropical Agriculture (IITA), based in Dar es Salaam, Tanzania. She has a disciplinary training background in anthropology and gender studies with strong skills in qualitative research methods. She obtained her PhD in Social Sciences from the Liverpool School of Tropical Medicine and the University of Liverpool, United Kingdom. She holds a Master of Arts and Bachelor of Arts (First class honors) degrees in Anthropology and Gender Studies, all from the University of Nairobi, Kenya. She has over ten years of work experience in gender integration in research and development projects across Sub-Saharan Africa in the fields of agriculture, global health, and climate change. Before joining IITA, she worked as a Gender Research Associate with the International Crops Research Institute for the Semi-Arid Tropics (ICRISAT) and the International Livestock Research Institute (ILRI), where she provided technical support with the implementation of the CGIAR Research Programs’ gender research strategies for the respective institutions.
+At IITA, her research is aimed at integrating gender and social inclusion considerations in the Muhogo Bora (Better cassava) gender-responsive cassava seed systems project in Tanzania; the USAID-funded Great Lakes Accelerated Innovation Delivery Initiative Rapid Delivery Hub focused on inclusive scaling of agricultural innovations; as well as the One CGIAR Initiative on “ Ukama Ustawi (UU): Diversification for Resilient Agrifood systems in East and Southern Africa (ESA)” .
+Publications
+Liani M.L., Cole S.M., Mwakanyamale D.F., Baumung L., Saleh N, Webber A., Tufan H.A. and Kapinga R. (2023). Uneven ground? Drivers of intersectional gender inequalities in cassava seed entrepreneurship in Tanzania. Frontiers in Sustainable Food Systems, 7: 1155769, 1-15. https://doi.org/10.3389/fsufs.2023.1155769
+Robinson Karuga, Rosie Steege, Inviolata Njoroge, Millicent L. Liani , Neele Wiltgen Georgi, Lilian Otiso, Nelly Muturi, Linet Okoth, Rachel Tolhurst, and Sally Theobald (2022). Leaving no one behind: A photovoice case study on vulnerability and wellbeing of child-headed households in two informal settlements in Nairobi. Social Sciences 11 (296): 1-22 . https://doi.org/10.3390/socsci11070296
+Liani, L.M., Nyamongo, K.I., Pulford, J., and Tolhurst, R. (2021). An intersectional gender analysis of familial and socio-cultural drivers of inequitable scientific career progression of researchers in Sub-Saharan Africa. Global Health Research and Policy Journal, Volume 6 (30): 1-16. Available at https://link.springer.com/content/pdf/10.1186/s41256-021-00213-3.pdf
+Liani, L.M., Nyamongo, K.I., Pulford, J., and Tolhurst, R. (2021). Institutional Level Drivers of Gender Inequitable Scientific Career Progression in Sub-Saharan Africa. Health Research Policy and Systems, Volume 19 (117):1-18. Available at https://health-policy-systems.biomedcentral.com/track/pdf/10.1186/s12961-021-00767-1.pdf
+Liani, L.M., Nyamongo, K.I., Pulford, J., and Tolhurst, R. (2021). Enablers of gender equitable scientific career progression in Sub-Saharan Africa: Insights from the DELTAS Africa Initiative. AAS Open Research, 4(42) . Available at https://aasopenresearch.org/articles/4-42/v1 DOI: 12688/aasopenres.13243.1
+Liani, L.M., Nyamongo, K.I., and Tolhurst, R. (2020). Understanding intersecting gender inequities in academic scientific research career progression in sub-Saharan Africa. International Journal of Gender Science and Technology, Volume12(2):266-288. Available http://genderandset.open.ac.uk/index.php/genderandset/article/view/652
+Waithanji, E., Wanyoike, S. and Liani, M . (2019). The Role of Gender and Other Socioeconomic Factors in the Adoption of the Contagious Bovine Pleuropneumonia Vaccine: A Literature Review. East African Agricultural and Forestry Journal, Volume 83 (3): 221-238. https://www.tandfonline.com/doi/abs/10.1080/00128325.2019.1604195
+Esther M Njuguna, Millicent L. Liani , Meseret Beyene and Chris O. Ojiewo (2016). Exploration of cultural norms and practices influencing women’s participation in chickpea participatory varietal selection training activities: A case study of Ada’a and Ensaro districts, Ethiopia. Journal of Gender, Agriculture and Food Security, Vol. 1 (3) pp 40-63. http://agrigender.net/uploads/JGAFS-132016-3-Paper.pdf
+Ochago, R., Ouma, E., and Liani, M. (2015). CGIAR Livestock and Fish Uganda partner gender capacity assessment brief. http://bit.ly/20WqL50
+Teeken, Béla
+Béla Teeken is a social science and gender researcher at the International Institute of tropical agriculture. He holds a PhD in social science and an MSc in crop physiology and rural development sociology from Wageningen University. He has a major interest in how ecology, local institutions, culture and gender shape and determine local innovations and agricultural practices and how these innovations and practices related to relates to those of formal scientific research.
+He has specific expertise in participatory field trials and food product quality evaluation in rice as well as cassava in relation to socio-cultural segmentation and gender. This includes qualitative as well as quantitative data analysis using insights and tools from anthropology; sociology; crop agronomy/physiology; breeding, genetics and history. Studies cover work in Ghana, Togo, Nigeria, RD Congo and Cameroon.
+He is currently working within breeding teams of roots, tubers and banana crops to inform and reform CGIAR breeding programs to make them more socially inclusive with specific attention to integrating gender responsive and transformative approaches.
+Recent publications
+McGuire, E., Leeuwis, C., Rietveld, A.M. and Teeken, B . (2024). Anticipating social differentiation and unintended consequences in scaling initiatives using GenderUp, a method to support responsible scaling. Agricultural Systems , Volume 215, 103866 https://doi.org/10.1016/j.agsy.2024.103866
+de Sousa, K., van Etten, J., Manners, R. Abidin, E., Abdulmalik, R.O., Bello, A., Acheremu, K., Angudubo, S., Aguilar, A., Arnaud, E., Babu, A., Barrios, M., Benavente, G., Boukar, O., . Cairns, J.E., Carey, E., Daudi, H., Dawud, M., Edughaen, G., Ellison, J., Esuma, W., Mohammed, S.G., van de Gevel, J., Gomez, M., van Heerwaarden, J., Iragaba, P., Kadege, E., Assefa, T.M., Kalemera, S., Kasubiri, F.S., Kawuki, R., Kidane, Y.D., Kilango, M., Kulembeka, H., Adofo, K.,Madriz, B., Masumba, E., Mbiu, J., Mendes, T., Müller, A., Moyo, M., Mtunda, K., Muzhingi, T., Muungani, D., Mwenda, E.T., Nadigatla, G.R.V.P.R.,Nanyonjo, A.N., N’Danikou, S., Nduwumuremyi, A., Nshimiyimana, J.C., Nuwamanya, E., Nyirahabimana, H., Occelli, M., Olaosebikan, O., Ongom, P.O., Ortiz-Crespo, B., Oteng-Fripong, R., Ozimati, A., Owoade, D., Quiros, C.F., Rosas, J.C., Rukundo, P., Rutsaert, P., Sibomana, M., Sharma, N., Shida, N., Steinke, J., Ssali, R., Suchini, J.G., Teeken, B ., Tengey, T.K., Tufan, H.A., Tumwegamire, S., Tuyishime, E., Ulzen, J., Umar, M.L., Onwuka, S., Madu, T.U., Voss, R.C., Yeye, M. & Zaman-Allah, M. (2024) The tricot approach: an agile framework for decentralized on-farm testing supported by citizen science. A retrospective. Agronomy and Sustainable Development . 44, 8. https://doi.org/10.1007/s13593-023-00937-1
+Bello, A., Afolabi, A., Olamide, O., Gospel, E., Dufour, D., Bouniol, A., Iluebbey, P., Ndjouenkeu, R., Ismail, R. and Teeken, B. (2023), Genetic and environmental effects on processing productivity and food product yield: drudgery of women’s work. J Sci Food Agric . Accepted Author Manuscript. https://doi.org/10.1002/jsfa.13079
+Bouniol, A., Ceballos, H., Abolore, B., Teeken, B. , Olaosebikan, D.O., Owoade, D., Afolabi, A., Fotso Kuate, A., Madu, T., Okoye, B., Ofoeze, M., Nwafor, S., Onyemauwa, N., Adinsi, L., Forsythe, L. and Dufour, D. (2023), Varietal impact on women’s labour, workload and related drudgery in processing root, tuber and banana crops. Focus on cassava in sub-Saharan Africa. J Sci Food Agric . Accepted Author Manuscript. https://doi.org/10.1002/jsfa.12936
+Olaosebikan, O., Bello, A., de Sousa, K., Ndjouenkeu, R., Adesokan, M., Alamu, E., Agbona, A., Van Etten, J., Kégah, F.N., Dufour, D., Bouniol, A. and Teeken, B. (2023), Drivers of consumer acceptability of cassava gari-eba food products across cultural and environmental settings using the triadic comparison of technologies approach (tricot). J Sci Food Agric. https://doi.org/10.1002/jsfa.12867
+Takam Tchuente, H.N., Fongang Fouepe, G.H., Mbwentchou Yao, D.C., Mathe, S. and Teeken, B. (2023), Varietal diversity as a lever for cassava variety development: exploring varietal complementarities in Cameroon. J Sci Food Agric . https://doi.org/10.1002/jsfa.12899
+Olaosebikan, O.; Bello, A.; Utoblo, O.; Okoye, B.; Olutegbe, N.; Garner, E.; Teeken, B .; Bryan, E.; Forsythe, L.; Cole, S.; Kulakow, P.; Egesi, C.; Tufan, H., Madu, T. (2023) Stressors and Resilience within the Cassava Value Chain in Nigeria: Preferred Cassava Variety Traits and Response Strategies of Men and Women to Inform Breeding. Sustainability , 15, 7837. https://doi.org/10.3390/su15107837
+van Etten, J., de Sousa, K., Cairns, J. E., Dell’Acqua, M., Fadda, C., Guereña, D., van Heerwaarden, J., Assefa, T., Manners, R., Müller, A., Enrico Pè, M., Polar, V., Ramirez-Villegas, J., Øivind Solberg, Svein., Teeken, B. & Tufan, H. A. (2023). Data-driven approaches can harness crop diversity to address heterogeneous needs for breeding products. Proceedings of the National Academy of Sciences , 120(14), e2205771120. https://doi.org/10.1073/pnas.2205771120
+Agbona, A., P. Peteti, B. Teeken , O. Olaosebikan, A. Bello, E. Parkes, I. Rabbi, L. Mueller, C. Egesi, and P. Kulakow.Data Management in Multi-disciplinary African RTB crop breeding programs (2023) in: towards responsible plant data linkage: data challenges for agricultural Research and Development, HF Williamson and S Leonelli eds. Springer International Publishing, Cham, pp. 85–103. https://doi.org/10.1007/978-3-031-13276-6_5
+Alamu, E.O., Teeken, B ., Ayetigbo, O., Adesokan, M., Kayondo, I., Chijioke, U., Madu, T., Okoye, B., Bello, A., Njoku, D., Rabbi, I., Egesi, C., Ndjouenkeu, R., Bouniol, A., De Sousa, K., Dufour, D. and Maziya-Dixon, B. (2023), Establishing the linkage between eba’s instrumental and sensory descriptive profiles and their correlation with consumer preferences: implications for cassava breeding. Journal of the Science Food and Agriculture . https://doi.org/10.1002/jsfa.12518
+Teeken, B. & Marina Padrão Temudo (2021) Varietal selection in marginal agroecological niches and cultural landscapes: the case of rice in the Togo Hills, Agroecology and Sustainable Food Systems , 45:8, 1109-1138. https://doi.org/10.1080/21683565.2021.1878405
+Teeken, B. , Garner, E., Agbona, A., Balogun, I., Olaosebikan, O., Bello, A., Madu, T., Okoye, B., Egesi, C., Kulakow, P. and Tufan, H.A. (2021). Beyond “Women’s Traits”: Exploring How Gender, Social Difference, and Household Characteristics Influence Trait Preferences. Frontiers Sustainable Food Systems 5:740926. https://doi.org/10.3389/fsufs.2021.740926
+Teeken, B. , Agbona, A., Bello, A., Olaosebikan, O., Alamu, E., Adesokan, M., Awoyale, W., Madu, T., Okoye, B., Chijioke, U., Owoade, D., Okoro, M., Bouniol, A., Dufour, D., Hershey, C., Rabbi, I., Maziya‐Dixon, B., Egesi, C., Tufan, H. and Kulakow, P. (2020). Understanding cassava varietal preferences through pairwise ranking of gari‐eba and fufu prepared by local farmer–processors. Int J Food Sci Technol. https://doi.org/10.1111/ijfs.14862
+Cole Steven
+Steven Michael Cole is a Senior Scientist and Gender Research Coordinator for the International Institute of Tropical Agriculture. He obtained his PhD in Biological Anthropology from the University of Arizona. He also holds a MSc degree in Agricultural and Resource Economics and a BSc in Health and Nutrition. His research employs both quantitative and qualitative methods to better understand the social and gender dynamics in agricultural contexts in low-income countries. He has extensive experience designing and piloting transformative approaches to overcome gender inequalities in agricultural development outcomes. His latest research integrates gender and other social science perspectives in biophysical research, including in research that aims to achieve gender-responsive breeding and seed systems outcomes and more inclusive value chains.
+Recent publications
+Liani, M., Cole, S.M., Mwakanyamale, D.F., Baumung, L., Saleh, N., Webber, A., Tufan, H.A., and Kapinga, R. (2023). Uneven ground? Intersectional gender inequalities in the commercialized cassava seed system in Tanzania. Frontiers in Sustainable Food Systems, 7:1155769. https://doi.org/10.3389/fsufs.2023.1155769
+Quisumbing, A., Cole, S., Elias, M., Faas, S., Galiè, A., Malapit, H., Meinzen-Dick, R., Myers, E., Seymour, G., and Twyman, J. (2023). Measuring women’s empowerment in agriculture: Innovations and evidence. Global Food Security, 38, 100707. https://doi.org/10.1016/j.gfs.2023.100707
+Tufa, A.H., Alene, A.D., Cole, S.M., Manda, J., Feleke, S., Abdoulaye, T., Chikoye, D., and Manyong, V. (2022). Gender differences in the adoption of improved agricultural technologies and crop productivity: Evidence from Malawi. World Development, 159, 106027. https://doi.org/10.1016/j.worlddev.2022.106027
+Avadí, A., Cole, S.M., Kruijssen, F., Dabat, M-E, and Mungule, C.M. (2022). How to enhance the sustainability and inclusiveness of smallholder aquaculture production systems in Zambia? Aquaculture, 547, 737494. https://doi.org/10.1016/j.aquaculture.2021.737494
+Elias, M., Cole, S.M., Quisumbing, A., Meinzen-Dick, R., Perez, A.-M., and Twyman, J. (2021). Assessing women’s empowerment in agriculture. In: Pyburn, R. and A. van Eerdewijk (eds.). Advancing gender equality through agricultural and environmental research: past, present and future. IFPRI, Washington, DC. https://doi.org/10.2499/9780896293915
+Cole, S.M., Feleke, S., Manda, J., Gondwe, T., and Akinwale, G. (2021). Who does what and why? Intra-household roles and explanatory models for sourcing soybean seed in Malawi. Outlook on Agriculture, https://doi.org/10.1177/0030727021103391 8
+Cole, S.M., Kaminski, A.M., McDougall, C., Kefi, A.S., Marinda, P., Maliko, M., and Mtonga, J. (2020). Gender accommodative versus transformative approaches: A comparative assessment within a post-harvest fish loss reduction intervention. Gender, Technology, and Development, Special Issue on Gender and Fisheries. https://doi.org/10.1080/09718524.2020.1729480
+Kaminski, A.M., Kruijssen, F., Cole, S.M., Beveridge, M.C., Dawson, C., Mohan, C.V., Suri, S., Karim, M., Chen, O.L., Phillips, M.J., Downing, W., Weirowski, F., Genschick, S., Tran, N., Rogers, W. and Little, D.C. (2020). A review of inclusive business models and their application in aquaculture development. Reviews in Aquaculture. https://doi.org/10.1111/raq.12415
+Cole, S.M., McDougall, C., Kaminski, A.M., Kefi, A.S., Chilala, A., Chisule, G. (2018). Post-harvest fish losses and unequal gender relations: drivers of the social-ecological trap in the Barotse Floodplain fishery, Zambia. Ecology and Society 23(2), 18. https://doi.org/10.5751/ES-09950-230218
+Cole, S.M., Puskur, R., Rajaratnam, S., and Zulu, F. (2015). Exploring the intricate relationship between poverty, gender inequality, and rural masculinity: A case study from an aquatic agricultural system in Zambia. Culture, Society and Masculinities, 7(2), 154-170. https://hdl.handle.net/20.500.12348/235
+Olaosebikan, Olamide
+Olamide Deborah Nwanze is a Senior Research Associate specializing in gender mainstreaming research to inform participatory and inclusive breeding, variety development, and seed systems policies regarding root, tuber, and banana (RTB) crops in the International Institute of Tropical Agriculture Headquarters, Ibadan, Nigeria. She is a PhD candidate at the University of Ibadan and holds an MSc and B. Agric in Agricultural Extension and Rural Development. Olamide is a fellow of the African Women in Agricultural Research and Development – Gender Responsive Agricultural Systems Policy ( AWARD-GRASP ) and the Gender Responsive Researchers Equipped for Agricultural Transformation ( GREAT ). She seeks to apply her gender-mainstreaming learnings, gender-responsive research, and policy development, and review expertise to facilitate women, youth, children, and vulnerable social group’s access to and adoption of agricultural Innovations that guarantee food, nutrition, income, and livelihood security in Africa. Her current roles include mentoring research fellows, development of guides and training manuals , implementation and adaptation of gender frameworks and tools, value chain actors’ engagement as citizen science partners, policy review and redesign, data management, and analysis. Her current research explores mixed methods and participatory and interdisciplinary approaches to capture and highlight gender dynamics, needs, preferences, and challenges stakeholders face within the agricultural livelihood value chain to prioritize gender-inclusive strategies in breeding programs, policy design, and implementation.
+At IITA, she contributes to the implementation of the CGIAR Accelerated Breeding Initiative and Genetic Innovation Programs; participatory and gender research within the NextGen Cassava , HarvestPlus , RTBFoods , and Tricot-ClimMob 1000Farms Projects; and gender knowledge communication via the G-LENS webinar series , video documentary, policy briefs , publications , and blogs .
+Recent publications
+de Sousa, K., van Etten, J., Manners, R. Bello, A., Teeken, B., Olaosebikan, O., et al. 2024. The tricot approach: an agile framework for decentralized on-farm testing supported by citizen science. A retrospective. Agron. Sustain. Dev. 44, 8. https://doi.org/10.1007/s13593-023-00937-1
+Madu, T., Onwuka, S., Nwafor, S., Onyemauwa, N., Ejechi, M., Ofoeze, M., Ukeje, B., Eluagu, C., Olaosebikan, O., Okoye, B., 2024. Gender-Inclusive Consumer Studies Improve Cassava Breeding in Nigeria in: Frontiers in Sociology, volume 9, number: 1224504, doi: 10.3389/fsoc.2024.1224504
+Olaosebikan, O.; Bello, A.; Utoblo, O.; Okoye, B.; Olutegbe, N.; Garner, E.; Teeken, B.; Bryan, E.; Forsythe, L.; Cole, S.; Madu, T. 2023. Stressors and Resilience within the Cassava Value Chain in Nigeria: Preferred Cassava Variety Traits and Response Strategies of Men and Women to Inform Breeding. Sustainability 15, 7837. https://doi.org/10.3390/su15107837
+Okoye, B., Ofoeze, M., Ejechi, M., Onwuka, S., Nwafor, S., Onyemauwa, N., Ukeje, B., Eluagu, C., Obidiegwu, J.*, Olaosebikan, O., Madu, T.* 2023. Prioritizing preferred traits in the yam value chain in Nigeria: a gender situation analysis in: Frontiers in Sociology, volume 8, number: 1232626, pages 1 – 9, ISSN 2297-7775, 2023. https://www.frontiersin.org/articles/10.3389/fsoc.2023.1232626/full
+Olaosebikan, O., Bello, A. A., de Sousa, K., Ndjouenkeu, R., Adesokan, M., Alamu, E. O., Agbona, A., van Etten, J., Kegah, F. N.*, Dufour, D., Bouniol, A., Teeken, B. 2023. Consumer acceptability of cassava gari-eba food products across cultural and environmental settings using the triadic comparison of technologies approach (tricot) in: Journal of the Science of Food and Agriculture,
+Teeken, B., Olaosebikan, O., Bello, A. A., Madu, T.*, Cole, S. M. 2023. Qualitative assessment on the positionality and preferences of dyads in relation to cassava-related activities: working with tricot trial citizen scientists https://hdl.handle.net/10568/138326 Type: Manual
+Bouniol, A., Ceballos, H., Bello, A. A., Teeken, B., Olaosebikan, O., Owoade, D., Agbona, A., Fotso Kuate, A., Madu, T.*, Okoye, B.*, Ofoeze, M.*, Nwafor, S.*, Onyemauwa, N.*, Adinsi, L.*, Forsythe, L., Dufour, D. 2023. Varietal impact on women’s labour, workload and related drudgery in processing root, tuber and banana crops: focus on cassava in sub-Saharan Africa in: Journal of the Science of Food and Agriculture, pages 1 – 25, ISSN 0022-5142,
+Bello, A. A., Agbona, A., Olaosebikan, O., Edughaen, G., Dufour, D., Bouniol, A., Iluebbey, P., Ndjouenkeu, R.*, Rabbi, I. Y., Teeken, B. 2023. Genetic and environmental effects on processing productivity and food product yield: drudgery of women’s work in: Journal of the Science of Food and Agriculture, pages 1 – 32, ISSN 0022-5142, 5
+Cavicchioli, M., Zimbiti, T., Teeken, B., Nwanze, D.O., Liani, M., Parkes, E. & Bello, A. 2023. IITA-Gender Responsive Breeding Training Report. Genetic Resources Center, IITA-HQ, Ibadan, 21-23 September, 2022. Ibadan, Nigeria: IITA, (34 p.). https://hdl.handle.net/10568/131368
+Agbona, A. Peteti P., Teeken B., Olaosebikan O. Bello, A. A., Parkes, E., Rabbi, I. Y., Mueller, L., Egesi, C., Kulakow, P. 2022. Data Management in Multi-disciplinary African RTB Crop Breeding Programs. In: Williamson, H.F., Leonelli, S. (eds) Towards Responsible Plant Data Linkage: Data Challenges for Agricultural Research and Development. Springer, Cham. https://doi.org/10.1007/978-3-031-13276-6_5
+Lora Forsythe, Pricilla Marimo, Sarah Mayanja, Olamide D. Olaosebikan, Esme Stuart, Bela Teeken, Benjamin Okoye, Tessy Madu, (2021). Cross-product Gender Analysis of RTBfoods Step 2 Gendered Food Mapping on RTB Products. Understanding the Drivers of Trait Preferences and the Development of Multi-user RTB Product Profiles, WP1. London, UK: RTBfoods Field Scientific Report, 30 p.
+Teeken, B., Garner, E., Agbona, A., Balogun, I., Olaosebikan, O., Bello, A., Madu, T., Okoye, B., Egesi, C., Kulakow, P. and Tufan, H.A. 2021. Beyond “Women’s Traits”: Exploring How Gender, Social Difference, and Household Characteristics Influence Trait Preferences. Frontiers Sustainable Food Systems 5:740926. https://doi.org/10.3389/fsufs.2021.740926
+Teeken, B., Agbona, A., Bello, A., Olaosebikan, O., Alamu, E., Adesokan, M., Awoyale, W., Madu, T., Okoye, B., Chijioke, U., Owoade, D., Okoro, M., Bouniol, A., Dufour, D., Hershey, C., Rabbi, I., Maziya‐Dixon, B., Egesi, C., Tufan, H. and Kulakow, P. (020. Understanding cassava varietal preferences through pairwise ranking of gari‐eba and fufu prepared by local farmer–processors. Int J Food Sci Technol. https://doi.org/10.1111/ijfs.14862
+Bela Teeken, Olamide Olaosebikan, Ireti Balogun, Benjamin Okoye, Tessy Madu, Steven Cole, Abolore Bello, Elizabeth Parkes. (2020). Piloting the G+ customer and product profile tools for gender-responsive cassava breeding in Nigeria. Nigeria: International Institute of Tropical Agriculture (IITA). https://hdl.handle.net/20.500.11766/13000
+English
+French

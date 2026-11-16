@@ -1,0 +1,308 @@
+ROW 29 | 49ffde0c12 | perplexity | F5-GL
+CLAIM: Farmers generally choose a price-coverage level between 55% and 100% of the RMA-established price in the US federal crop insurance programme.
+URL: https://www.rma.usda.gov/about-crop-insurance/managing-farm-risk/insurance-plans
+STATUS: ok
+
+Insurance Plans | Risk Management Agency
+Skip to main content
+An official website of the United States government
+Here's how you know
+Here's how you know
+Official websites use .gov
+A .gov website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A lock (
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+About RMA
+| FCIC
+| Find an Agent
+Risk Management Agency
+U.S. Department of Agriculture
+Policy & Procedure
+Toggle sub menu for
+Policy & Procedure
+Appendix III/M-13 Handbook Index
+Bulletins and Memos
+Toggle sub menu for
+Bulletins and Memos
+Actuarial Releases
+Informational Memorandums
+Manager's Bulletins
+Product Management Bulletins
+Crop Loss Adjustment Standards
+Crop Policies
+Crop Underwriting Standards
+Final Agency Determinations
+General Handbooks
+General Policies
+Toggle sub menu for
+General Policies
+Commodity Exchange Price Provisions
+Livestock Insurance Plans
+Margin Insurance
+Rainfall Index
+Whole-Farm Revenue Protection
+Reinsurance Agreements
+Toggle sub menu for
+Reinsurance Agreements
+Livestock Price Reinsurance Agreement Archive
+Standard Reinsurance Agreement Archive
+RMALocal
+Toggle sub menu for
+RMALocal
+Compliance Offices
+Toggle sub menu for
+Compliance Offices
+Special Investigations Branch
+Central
+Eastern
+Midwest
+Northern
+Southern
+Western
+Regional Offices
+Toggle sub menu for
+Regional Offices
+Billings, MT
+Davis, CA
+Jackson, MS
+Oklahoma City, OK
+Raleigh, NC
+Spokane, WA
+Springfield, IL
+St. Paul, MN
+Topeka, KS
+Valdosta, GA
+States
+Tools & Reports
+Toggle sub menu for
+Tools & Reports
+Actuarial Documents
+Toggle sub menu for
+Actuarial Documents
+Actuarial Information Browser
+RMA Information Reporting System
+Agent Locator
+Approved Insurance Providers
+Associated Agencies and Partners
+Cost Estimator
+County Crop Programs
+Crop Indemnity Maps
+Toggle sub menu for
+Crop Indemnity Maps
+Crop Year 2026
+Crop Year 2025
+Crop Year 2024
+Crop Year 2023
+Crop Year 2022
+Crop Year 2021
+Crop Year 2020
+Crop Year 2019
+Crop Year 2018
+Crop Year 2017
+FTP File Access
+Livestock Reports (LRP and LGM)
+Nursery Software (EPLPPS)
+Other Sites
+PRF Rainfall
+Price Discovery Reporting
+Toggle sub menu for
+Price Discovery Reporting
+RMA's Price Discovery Application
+Forage Revenue Protection
+Margin Coverage Option
+Margin Protection
+Reinsurance Reports
+RMA Map Viewer
+Summary of Business
+Toggle sub menu for
+Summary of Business
+Cause of Loss
+Livestock & Dairy Participation
+National
+Puerto Rico
+State/County/Crop
+Report Generator
+2019 Prevented Planting Supplemental Payments
+Weather Resources
+About Crop Insurance
+Toggle sub menu for
+About Crop Insurance
+Basics for Beginners
+Toggle sub menu for
+Basics for Beginners
+Beginners Guide to Crop Insurance
+Policyholder Bill of Rights
+Educational Videos
+Video Testimonials from Farmers
+Benefits for Beginning Farmers and Veterans
+How to Find an Agent
+How to Contact RMA
+Fact Sheets
+Farm Bill
+Frequently Asked Questions
+Highlighted Initiatives and Plans
+Toggle sub menu for
+Highlighted Initiatives and Plans
+Conservation
+Controlled Environment
+Cover Crops
+Double Cropping
+Emergency and Natural Disaster Relief
+Fire Insurance Protection – Smoke Index
+Hemp
+Hurricane Insurance Protection - Wind Index
+Nursery Value Select
+Organic Crops
+Prevented Planting
+Seafood
+Specialty Crops
+Turfgrass Value Select
+Whole-Farm Revenue Protection
+Managing Your Farm Risk
+Toggle sub menu for
+Managing Your Farm Risk
+Insurance Plans
+Insurance Cycle
+Obligations and Expectations
+Resources
+Outreach and Education
+Toggle sub menu for
+Outreach and Education
+Partnership Projects
+Past Webinars
+Urban Farmers
+News & Events
+Toggle sub menu for
+News & Events
+News
+Events
+Toggle sub menu for
+Events
+Past Events
+RMA Latest Announcements
+Search
+About RMA
+| FCIC
+| Find an Agent
+Breadcrumb
+Home
+About Crop I...
+Insurance Plans
+About Crop Insurance
+Basics for Beginners
+Beginners Guide to Crop Insurance
+Policyholder Bill of Rights
+Educational Videos
+Video Testimonials from Farmers
+Benefits for Beginning Farmers and Veterans
+How to Find an Agent
+How to Contact RMA
+Fact Sheets
+Farm Bill
+Frequently Asked Questions
+Highlighted Initiatives and Plans
+Conservation
+Controlled Environment
+Cover Crops
+Double Cropping
+Emergency and Natural Disaster Relief
+Emergency Relief and Natural Disaster Resources Archive
+Fire Insurance Protection – Smoke Index
+Hemp
+Hurricane Insurance Protection - Wind Index
+Nursery Value Select
+Organic Crops
+Prevented Planting
+Seafood
+Specialty Crops
+2026 Expansions of Specialty Crops Programs
+2025 Expansions of Specialty Crops Programs
+2024 Expansions of Specialty Crops Programs
+2023 Expansions of Specialty Crops Programs
+2022 Expansion of Specialty Crops Programs
+2021 Expansions of Specialty Crops Programs
+2020 Expansions of Specialty Crops Programs
+2019 Expansions of Specialty Crops Programs
+Turfgrass Value Select
+Whole-Farm Revenue Protection
+Managing Your Farm Risk
+Insurance Plans
+Insurance Cycle
+Obligations and Expectations
+Resources
+Outreach and Education
+Partnership Projects
+Past Webinars
+Urban Farmers
+Insurance Plans
+Buying a crop insurance policy is a risk management tool available to agricultural producers. Producers should consider how a policy will work in conjunction with their other risk management strategies to insure the best possible outcome each crop year. Crop insurance agents and other agri-business specialists can assist producers in developing a good management plan.
+RMA provides policies for more than 100 crops. Policies typically consist of general crop insurance provisions, specific crop provisions, policy endorsements and special provisions. See RMA's county crop program listings for information about crop policies available in specific counties and states.
+Policies are available for most commodities; however, some policies are being tested as pilots or have not been expanded nationwide so are not available in all areas.
+Insurance Plans provide different types of insurance coverage to specific commodities:
+Actual Production History
+Actual Production History (APH) policies insure producers against yield losses due to natural causes such as drought, excessive moisture, hail, wind, frost, insects, and disease. The producer selects the amount of average yield to insure; from 50-75 percent (in some areas to 85 percent). The producer also selects the percent of the predicted price to insure; between 55 and 100 percent of the crop price established annually by RMA. If the harvested plus any appraised production is less than the yield insured, the producer is paid an indemnity based on the difference. Indemnities are calculated by multiplying this difference by the insured percentage of the price selected when crop insurance was purchased and by the insured share.
+Actual Revenue History
+Actual Revenue History (ARH) plan of insurance has many parallels to the APH plan of insurance, with the primary difference being that instead of insuring historical yields, the plan insures historical revenues. The policy is structured as an endorsement to the Common Crop Insurance Policy Basic Provisions. It restates many of the APH yield procedures to reflect a revenue product. Each crop insured under ARH has unique crop provisions. Like current revenue coverage plans, the ARH pilot program protects growers against losses from low yields, low prices, low quality, or any combination of these events.
+Area Risk Protection Insurance
+Area Risk Protection Insurance (ARPI) is an insurance plan that provides coverage based on the experience of an entire area, generally a county. ARPI replaces the Group Risk Plan (GRP) and the Group Risk Income Protection Plan (GRIP).
+ARPI provides protection against widespread loss of revenue or widespread loss of yield in a county. Individual farm revenues and yields are not considered under ARPI and it is possible that your individual farm may experience reduced revenue or reduced yield and not receive an indemnity under ARPI.
+Dollar Plan
+Dollar plan policies provide protection against damage due to naturally-occurring perils. Guarantees are determined based on values published on the actuarial documents (Reference Maximum Dollar Amounts), which generally represent the cost of establishing a crop. The insured may generally select a percent of the Reference Maximum Dollar Amount in the actuarial documents equal to catastrophic level of coverage (CAT) or purchase additional coverage levels. Indemnities are triggered when the percent of loss exceeds the deductible. The deductible is determined based on the insured’s selected coverage level.
+There are 5 types of dollar plans: tree-based dollar, dollar, fixed dollar, yield-based dollar, and aquaculture dollar.
+Tree-based dollar plans, i.e. macadamia tree, are not required/fixed to a contract
+Dollar plans, i.e. tomatoes, are not required/fixed to a contract
+Fixed dollar plans, i.e. chile peppers, are fixed to a contract but does not have a yield component
+Yield-based dollar plans, i.e. hybrid crop plans, are required/fixed to a contract but have a yield component
+Aquaculture dollar plans, i.e. cultivated clams, are not required/fixed to a contract
+Group Risk Plan
+Group Risk Plan (GRP) is designed as a risk management tool to insure against widespread loss of production of the insured crop in a county. GRP policies use a county yield index as the basis for determining a loss. When the estimated county yield for the insured crop, as determined by National Agricultural Statistics Service (NASS), falls below the trigger yield level chosen by the producer, an indemnity is paid. Payments are not based on an individual producer's crop yields. Coverage levels are available for up to 90 percent of the expected county yield. GRP involves less paperwork and costs less than plans of insurance against individual loss, as described above. Under GRP, insured acreage for an individual producer's crop may have low yields and not receive a payment if the county does not suffer a similar level of yield loss. This insurance is primarily intended for producers whose crop yields typically follow the average county yield.
+Livestock Insurance Plans
+Buying a livestock insurance policy is one risk management option. Producers should always carefully consider how a policy will work in conjunction with their other risk management strategies to insure the best possible outcome. Learn more .
+Margin Protection for Corn, Rice, Soybeans, and Wheat
+The Margin Protection (MP) plan of insurance is a privately developed product that was submitted to the FCIC Board under Section 508(h) of the Federal Crop Insurance Act. Margin Protection is offered as an area based plan that can be purchased as a stand-alone policy or purchased in conjunction with a Yield Protection or Revenue Protection policy. The plan provides producers with coverage against an unexpected decrease in their operating margin.
+Starting in the 2016 crop year, the new Margin Protection (MP) plan will be available in addition to underlying crop insurance policies in select counties starting for corn, rice, soybeans, and spring wheat.
+The plan provides coverage that is based on an expected margin, which is the expected area revenue minus the expected area operating costs, for each applicable crop, type and practice. Margin protection is area-based coverage and may not necessarily reflect a producer’s individual experience. The margin protection plan can be purchased by itself, or in conjunction with Yield Protection or Revenue Protection policy.
+Margin protection is available for rice in select Arkansas, California, Louisiana, Mississippi, Missouri, and Texas counties. Margin Protection coverage is available for spring wheat in select Minnesota, Montana, North Dakota, and South Dakota counties. Margin Protection for corn is available in select counties in all states except Alaska and Hawaii. Margin protection coverage is available for soybeans in select counties in Alabama, Arkansas, Colorado, Delaware, Florida, Georgia, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maryland, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, New Jersey, New York, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Vermont, Virginia, West Virginia, and Wisconsin.
+Archive
+Rainfall Index
+Rainfall Index (RI) is based on weather data collected and maintained by the National Oceanic and Atmospheric Administration's Climate Prediction Center . The index reflects how much precipitation is received relative to the long-term average for a specified area and timeframe. The program divides the country into six regions due to different weather patterns, with pilots available in select counties. Additional information on NOAA CPC’s interpolation and quality control process can be found in NOAA CPC’s Conceptual Description Paper .
+Revenue Protection
+Revenue Protection policies insure producers against yield losses due to natural causes such as drought, excessive moisture, hail, wind, frost, insects, and disease, and revenue losses caused by a change in the harvest price from the projected price. The producer selects the amount of average yield he or she wishes to insure; from 50-75 percent (in some areas to 85 percent). The projected price and the harvest price are 100 percent of the amounts determined in accordance with the Commodity Exchange Price Provisions and are based on daily settlement prices for certain futures contracts. The amount of insurance protection is based on the greater of the projected price or the harvest price. If the harvested plus any appraised production multiplied by the harvest price is less than the amount of insurance protection, the producer is paid an indemnity based on the difference.
+Whole-Farm Revenue Protection
+Whole-Farm Revenue Protection (WFRP) provides a risk management safety net for all commodities on the farm under one insurance policy and is available in all counties nationwide. This insurance plan is tailored for any farm with up to $17 million in insured revenue under WFRP and $350,000 in approved revenue under Micro Farm, including farms with specialty or organic commodities (both crops and livestock), or those marketing to local, regional, farm-identity preserved, specialty, or direct markets.
+Yield Protection
+Yield Protection policies insure producers in the same manner as APH polices, except a projected price is used to determine insurance coverage. The projected price is determined in accordance with the Commodity Exchange Price Provisions and is based on daily settlement prices for certain futures contracts. The producer selects the percent of the projected price he or she wants to insure, between 55 and 100 percent.
+Top
+For Producers
+Managing Your Farm Risk
+Find an Agent
+Beginning Farmer Resources
+Frequently Asked Questions
+For Insurance Providers
+Tools & Reports
+Policy & Procedure
+RMA Legacy Website
+About RMA
+Federal Crop Insurance Corporation (FCIC)
+Careers
+Contact Us
+Get RMA Updates
+Stay up to date on the latest RMA news and reports
+Email Address
+Connect With Us
+Facebook
+Mail
+Rss
+Twitter
+YouTube
+flickr
+LinkedIn
+Footer Secondary
+USDA.gov
+FOIA
+Report Fraud on USDA Contracts
+No FEAR Report
+Non-Discrimination Statement
+Privacy Policy
+Accessibility Statement
